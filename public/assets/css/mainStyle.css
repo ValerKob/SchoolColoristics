@@ -1,13 +1,28 @@
+html {
+    overflow-x: hidden;
+}
+
 body {
     font-family: "Inter", sans-serif;
     /* font-family: 'Montserrat', sans-serif; */
 }
 
 .container {
-    width: 1440px;
-    height: auto;
+    max-width: 1440px;
 
     margin: 0 auto;
 
     padding: 0 120px;
+}
+
+@media (max-width: 1000px) {
+    .container {
+        padding: 0 60px;
+    }
+}
+
+@media (max-width: 560px) {
+    .container {
+        padding: 0 30px;
+    }
 }

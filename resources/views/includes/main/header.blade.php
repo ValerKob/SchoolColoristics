@@ -1,21 +1,80 @@
 <!--================ Start Header =================-->
 <header>
     <div class="container">
-        <div class="headerLogo">
-            <img class="headerLogoImg" src="" alt="">
+        <div class="headerWrapper">
+            <div class="burgerMenu" id="burger">
+                <div class="burgerMenuWhite"></div>
+            </div>
+            <div class="headerLogo">
+                <img class="headerLogoImg" src="./assets/images/logo.svg" alt="">
+            </div>
+            <ul class="headerUl">
+                <li class="headerLi">
+                    <a class="headerLink" href="#">Для&nbsp;кого</a>
+                </li>
+                <li class="headerLi">
+                    <a class="headerLink" href="#">О&nbsp;нас</a>
+                </li>
+                <li class="headerLi">
+                    <a class="headerLink" href="#">Курсы</a>
+                </li>
+                <li class="headerLi">
+                    <a class="headerLink" href="#">Результаты&nbsp;учеников</a>
+                </li>
+                <li class="headerLi">
+                    <a class="headerLink" href="#">Контакты</a>
+                </li>
+            </ul>
+            <ul class="headerUl active">
+                <li class="headerLiImg">
+                    <a class="headerLink headerLinkMrImg" href="#">
+                        <img class="headerLinkImg" src="./assets/images/social/vk.svg" alt="">
+                    </a>
+                </li>
+                <li class="headerLiImg">
+                    <a class="headerLink headerLinkMrImg" href="#">
+                        <img class="headerLinkImg" src="./assets/images/social/tg.svg" alt="">
+                    </a>
+                </li>
+            </ul>
         </div>
-        <ul class="headerUl">
-            <li class="headerLi">
-                <a class="headerLink" href="#">Для кого</a>
-            </li>
-        </ul>
-        <ul class="headerUl">
-            <li class="headerLi">
-                <a class="headerLink" href="#">
-                    <img class="" src="" alt="">
-                </a>
-            </li>
-        </ul>
+
+        <div class="wrapperBurger" id="wrapperBurger">
+            <div class="headerLogo">
+                <img class="headerLogoImg burger" src="./assets/images/logo.svg" alt="">
+            </div>
+            <div class="closeBurger" id="close"><img src="./assets/images/close.svg" alt=""></div>
+            <ul class="headerUl active burger">
+                <li class="headerLi burger">
+                    <a class="headerLink" href="#">Для&nbsp;кого</a>
+                </li>
+                <li class="headerLi burger">
+                    <a class="headerLink" href="#">О&nbsp;нас</a>
+                </li>
+                <li class="headerLi burger">
+                    <a class="headerLink" href="#">Курсы</a>
+                </li>
+                <li class="headerLi burger">
+                    <a class="headerLink" href="#">Результаты&nbsp;учеников</a>
+                </li>
+                <li class="headerLi burger">
+                    <a class="headerLink" href="#">Контакты</a>
+                </li>
+            </ul>
+
+            <ul class="headerUl active burgerLink">
+                <li class="headerLiImg">
+                    <a class="headerLink headerLinkMrImg" href="#">
+                        <img class="headerLinkImg" src="./assets/images/social/vk.svg" alt="">
+                    </a>
+                </li>
+                <li class="headerLiImg">
+                    <a class="headerLink headerLinkMrImg" href="#">
+                        <img class="headerLinkImg" src="./assets/images/social/tg.svg" alt="">
+                    </a>
+                </li>
+            </ul>
+        </div>
     </div>
 </header>
 <!--================ End Header =================-->
