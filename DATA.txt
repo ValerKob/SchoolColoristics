@@ -1,3 +1,6 @@
+IP: 188.225.40.140
+Хост: vh426.timeweb.ru
+
 Login: cj19741
 Pass: O!x!!dP8SeS8
 
