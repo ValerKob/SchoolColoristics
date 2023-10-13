@@ -31,7 +31,8 @@
     @include('includes.main.footer')
 
     <!-- JS -->
-   <script src="./assets/js/burger.js?<?= time() ?>"></script>
+    <script src="./assets/js/burger.js?<?= time() ?>"></script>
+    <script src="./assets/js/tabs.js?<?= time() ?>"></script>
 </body>
 
 </html>
