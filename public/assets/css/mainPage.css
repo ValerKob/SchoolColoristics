@@ -1303,7 +1303,7 @@
 @media (max-width: 500px) {
     /* Two Blog */
     .twoBlog {
-        height: 1050px;
+        height: auto;
     }
 
     .colEllipseStat2, .colEllipseStat4 {
@@ -1328,6 +1328,27 @@
 
         margin-top: 0;
         margin-bottom: 30px;
+    }
+
+    .ellipseStat3Text>img {
+        max-width: 200px;
+    }
+
+    .ellipseStat3Text {
+        font-size: 34px;
+    }
+
+    .ellipseStatImg {
+        max-width: 180px;
+    }
+
+    .ellipseStatText, .ellipseStatText>b {
+        width: 200px;
+        font-size: 16px;
+
+        margin-top: 10px;
+
+        margin-bottom: 20px;
     }
 
     /* Three Blog */
