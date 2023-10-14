@@ -1,0 +1,128 @@
+/* Footer */
+footer {
+    width: 100vw;
+    height: auto;
+    flex-shrink: 0;
+
+    padding: 50px 0;
+
+    background: #202020;
+}
+
+.wrapperFooter {
+    max-width: 1225px;
+    height: auto;
+    flex-shrink: 0;
+
+    border-radius: 16px;
+    border: 2px solid #A20BD8;
+    background: linear-gradient(92deg, #FF4040 15.93%, #A20BD8 67.99%);
+
+    padding: 45px;
+}
+
+.rowFooter {
+    display: grid;
+    grid-template-columns: auto auto auto;
+}
+
+.colFooterTilte {
+    width: 212px;
+    height: 67px;
+    flex-shrink: 0;
+
+    color: #000;
+    font-size: 26px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 30px;
+}
+
+.colFooterTilteType {
+    color: #FFF;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    letter-spacing: 0.3px;
+
+    margin-bottom: 30px;
+}
+
+.colFooterContent.pages {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 25px;
+}
+
+.colFooterLink {
+    color: #B0B0B0;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    letter-spacing: 0.3px;
+
+    margin-right: 25px;
+
+    position: relative;
+}
+
+.colFooterLink::after {
+    content: '';
+    position: absolute;
+    display: block;
+    top: 110%;
+    left: 0;
+    width: 0;
+    height: 2px;
+
+    background-color: #B0B0B0;
+
+    transition: all .3s ease-in-out 0s;
+}
+
+.colFooterLink:hover::after {
+    width: 100%;
+}
+
+.colFooterText {
+    color: #FFF;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    letter-spacing: 0.3px;
+
+    margin-bottom: 15px;
+}
+
+.colFooterSocial {
+    margin-top: 25px;
+}
+
+.colFooterSocial a {
+    margin-right: 40px;
+}
+
+.colFooterSocial a:last-child {
+    margin-right: 0;
+}
+
+/* Media */
+@media (max-width: 900px) {
+    /* Footer */
+    .rowFooter {
+        grid-template-columns: auto auto;
+        gap: 30px
+    }
+}
+
+@media (max-width: 700px) {
+
+    /* Footer */
+    .rowFooter {
+        grid-template-columns: auto;
+        gap: 30px
+    }
+}
