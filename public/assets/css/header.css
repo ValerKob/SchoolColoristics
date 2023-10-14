@@ -245,7 +245,7 @@ header {
         display: flex;
     }
 
-    .headerUl.active {
+    .headerUl.active, .headerLogo {
         display: none;
     }
 
