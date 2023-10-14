@@ -49,6 +49,11 @@ footer {
     margin-bottom: 30px;
 }
 
+.colFooterContent.telEmail {
+    display: flex;
+    flex-direction: column;
+}
+
 .colFooterContent.pages {
     display: flex;
     flex-wrap: wrap;

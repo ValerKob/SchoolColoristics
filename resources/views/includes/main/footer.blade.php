@@ -21,10 +21,10 @@
                     <div class="colFooterTilteType">
                         Контакты
                     </div>
-                    <div class="colFooterContent">
+                    <div class="colFooterContent telEmail">
                         <div class="colFooterText">Ежедневно: (с 9:00 до 20:00)</div>
-                        <div class="colFooterText">Тел: +7 (911) 875 44-99</div>
-                        <div class="colFooterText">Email: schoolcoloristic@gmail.ru</div>
+                        <a href="tel:+79118754499" class="colFooterText">Тел: +7 (911) 875 44-99</a>
+                        <a href="mailto:schoolcoloristic@gmail.ru" class="colFooterText">Email: schoolcoloristic@gmail.ru</a>
                     </div>
                 </div>
                 <div class="colFooter">
