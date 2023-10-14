@@ -1292,11 +1292,11 @@
     } 
 
     .titleOneBlogImg2 {
-        width: 250px;
+        max-width: 250px;
     }
 
     .textOneBlogBtnImg {
-        width: 210px;
+        max-width: 210px;
     }
 }
 
