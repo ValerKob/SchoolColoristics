@@ -927,6 +927,66 @@
                 </div>
             </div>
         </div>
+        <div class="fiveBlogInfo">
+            <div class="fiveBlogInfoTitle">ИНФОРМАЦИЯ</div>
+            <div class="fiveBlogInfoTags">
+                <div class="fiveBlogInfoTag" id="fiveBlogTagsText1">
+                    <div class="fiveBlogInfoTagContent">
+                        <div class="fiveBlogInfoTagTitle">Можно заниматься с телефона или только с компьютера?</div>
+                        <div class="fiveBlogInfoTagClose" id="fiveBlogTags1"><img class="fiveBlogInfoTagImg" src="./assets/images/mainpage/tagsplus.svg" alt=""></div>
+                    </div>
+                    <div class="fiveBlogInfoTagText">
+                        Всем, кто хочет освоить новую профессию и зарабатывать, занимаясь любимым делом. <br>
+                        Тем, кто хочет поднять квалификацию.<br>
+                        Тем, кто хочет работать мастером в салоне красоты или открыть собственную студию.<br>
+                        Тем, кто любит свободный график, и кто любит творчество.<br>
+                        Тем, кто хочет выполнять изученные процедуры на себе и своих друзьях и подругах.<br>
+                    </div>
+                </div>
+
+                <div class="fiveBlogInfoTag" id="fiveBlogTagsText2">
+                    <div class="fiveBlogInfoTagContent">
+                        <div class="fiveBlogInfoTagTitle">Как проходит обучение?</div>
+                        <div class="fiveBlogInfoTagClose" id="fiveBlogTags2"><img class="fiveBlogInfoTagImg" src="./assets/images/mainpage/tagsplus.svg" alt=""></div>
+                    </div>
+                    <div class="fiveBlogInfoTagText">
+                        Всем, кто хочет освоить новую профессию и зарабатывать, занимаясь любимым делом. <br>
+                        Тем, кто хочет поднять квалификацию.<br>
+                        Тем, кто хочет работать мастером в салоне красоты или открыть собственную студию.<br>
+                        Тем, кто любит свободный график, и кто любит творчество.<br>
+                        Тем, кто хочет выполнять изученные процедуры на себе и своих друзьях и подругах.<br>
+                    </div>
+                </div>
+
+                <div class="fiveBlogInfoTag" id="fiveBlogTagsText3">
+                    <div class="fiveBlogInfoTagContent">
+                        <div class="fiveBlogInfoTagTitle">Кому подойдёт обучение?</div>
+                        <div class="fiveBlogInfoTagClose" id="fiveBlogTags3"><img class="fiveBlogInfoTagImg" src="./assets/images/mainpage/tagsplus.svg" alt=""></div>
+                    </div>
+                    <div class="fiveBlogInfoTagText">
+                        Всем, кто хочет освоить новую профессию и зарабатывать, занимаясь любимым делом. <br>
+                        Тем, кто хочет поднять квалификацию.<br>
+                        Тем, кто хочет работать мастером в салоне красоты или открыть собственную студию.<br>
+                        Тем, кто любит свободный график, и кто любит творчество.<br>
+                        Тем, кто хочет выполнять изученные процедуры на себе и своих друзьях и подругах.<br>
+                    </div>
+                </div>
+
+                <div class="fiveBlogInfoTag" id="fiveBlogTagsText4">
+                    <div class="fiveBlogInfoTagContent">
+                        <div class="fiveBlogInfoTagTitle">Чем интересен наш курс!</div>
+                        <div class="fiveBlogInfoTagClose" id="fiveBlogTags4"><img class="fiveBlogInfoTagImg" src="./assets/images/mainpage/tagsplus.svg" alt=""></div>
+                    </div>
+                    <div class="fiveBlogInfoTagText">
+                        Всем, кто хочет освоить новую профессию и зарабатывать, занимаясь любимым делом. <br>
+                        Тем, кто хочет поднять квалификацию.<br>
+                        Тем, кто хочет работать мастером в салоне красоты или открыть собственную студию.<br>
+                        Тем, кто любит свободный график, и кто любит творчество.<br>
+                        Тем, кто хочет выполнять изученные процедуры на себе и своих друзьях и подругах.<br>
+                    </div>
+                </div>
+            </div>
+        </div>
     </div>
 </section>
 <!--================ End Pages Main =================-->

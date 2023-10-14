@@ -861,6 +861,77 @@
     transform-origin: 0% 0%;
 }
 
+/* Five Blog Info */
+
+.fiveBlogInfo {
+    text-align: center;
+}
+
+.fiveBlogInfoTag {
+    max-width: 600px;
+    height: 50px;
+    margin: 0 auto 10px;
+
+    overflow: hidden;
+
+    transition: all .3s ease-in-out 0s;
+}
+
+.fiveBlogInfoTag:last-child {
+    margin-bottom: 0;
+}
+
+.fiveBlogInfoTag.active {
+    height: auto;
+}
+
+.fiveBlogInfoTagContent {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.fiveBlogInfoTitle {
+    color: #FFF;
+    font-size: 36px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+
+    margin: 80px 0 30px;
+}
+
+.fiveBlogInfoTagTitle {
+    text-align: start;
+
+    color: #FFF;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+}
+
+.fiveBlogInfoTagClose {
+    cursor: pointer;
+
+    transition: all .3s ease-in-out 0s;
+}
+
+.fiveBlogInfoTagClose.active {
+    transform: rotate(225deg);
+}
+
+.fiveBlogInfoTagText {
+    text-align: start;
+
+    color: #B0B0B0;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 18px;
+
+    margin: 20px 0 20px 20px;
+}
 
 /* Media */
 @media (max-width: 1200px) {
@@ -1209,6 +1280,11 @@
     .colFoutBlogTitle {
         font-size: 22px;
     }
+
+    .fiveBlogInfoTagTitle {
+        max-width: 250px;
+        font-size: 12px;
+    } 
 }
 
 @media (max-width: 500px) {
