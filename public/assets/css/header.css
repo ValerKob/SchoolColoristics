@@ -249,7 +249,7 @@ header {
         display: none;
     }
 
-    .headerLogo {
+    .headerLogo.main {
         opacity: 0;
     }
 

@@ -5,7 +5,7 @@
             <div class="burgerMenu" id="burger">
                 <div class="burgerMenuWhite"></div>
             </div>
-            <div class="headerLogo">
+            <div class="headerLogo main">
                 <img class="headerLogoImg" src="./assets/images/logo.svg" alt="Школа колористики логотип">
             </div>
             <ul class="headerUl">
