@@ -233,6 +233,11 @@ header {
 }
 
 @media (max-width: 560px) {
+    header {
+        display: flex;
+        align-items: center;
+    }
+    
     .wrapperBurger.active {
         left: -30px;
     }
