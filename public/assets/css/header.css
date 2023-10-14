@@ -245,8 +245,12 @@ header {
         display: flex;
     }
 
-    .headerUl.active, .headerLogo {
+    .headerUl.active {
         display: none;
+    }
+
+    .headerLogo {
+        opacity: 0;
     }
 
     .headerLogo {
