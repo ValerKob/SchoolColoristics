@@ -606,5 +606,328 @@
         </div>
     </div>
 </section>
+
+<section class="fiveBlog">
+    <div class="container">
+        <div class="fiveBlogTitle">
+            <img class="fiveBlogTitleImg" src="./assets/images/mainpage/fiveTitle.svg" alt="">
+        </div>
+        <div class="wrapperFiveBlog">
+
+            <!-- <div class="leftActBlogTitle">
+                        <img class="leftActBlogImg" src="./assets/images/mainpage/carousel/carousel1.svg" alt="">
+                        <div class="leftActBlogTitleType">Курс “Стилис”</div>
+                        <div class="leftActBlogText">Радужная покраска</div>
+                    </div>
+                    <div class="rightActBlogTitle">
+
+                    </div> -->
+
+            <div class="carousel">
+                <div class="carousel--wrap">
+                    <div class="carousel--item">
+                        <div class="wrapperCarousel--item">
+                            <div class="leftActBlog">
+                                <img class="leftActBlogImg" src="./assets/images/mainpage/carousel/carousel1.svg" alt="">
+                                <div class="leftActBlogTitleType">Курс “Стилис”</div>
+                                <div class="leftActBlogText">Радужная покраска</div>
+                            </div>
+                            <div class="rightActBlog">
+                                <div class="rightActBlogTitle">Анна Евгеньевна</div>
+                                <div class="rightActBlogStare">
+                                    <img class="rightActBlogStareImg" src="./assets/images/mainpage/carousel/star.svg" alt="">
+                                    <img class="rightActBlogStareImg" src="./assets/images/mainpage/carousel/star.svg" alt="">
+                                    <img class="rightActBlogStareImg" src="./assets/images/mainpage/carousel/star.svg" alt="">
+                                    <img class="rightActBlogStareImg" src="./assets/images/mainpage/carousel/star.svg" alt="">
+                                    <img class="rightActBlogStareImg" src="./assets/images/mainpage/carousel/star.svg" alt="">
+                                </div>
+                                <div class="rightActBlogText">
+                                    <h1>
+                                        <p>Моё лучшее решение в 2021 году было </p>
+                                        <p> пойти учиться парикмахерскому искусству.</p>
+                                        <p>Пришла я туда совершенно ничего не зная о </p>
+                                        <p>профессии, даже не умела ножницы</p>
+                                        <p>держать, а после обучения смогла стричь</p>
+                                        <p>самые коммерческие стрижки, как женские,</p>
+                                        <p>так и мужские. Четкие инструкции,</p>
+                                        <p>поддержка преподавателей дали</p>
+                                        <p>уверенность в том что я делаю. И теперь я</p>
+                                        <p>понимаю, что зная базу, ты можешь стричь</p>
+                                        <p>любые формы, осуществляя любое желание</p>
+                                        <p>клиента, а 100% базу я получила, Спасибо</p>
+                                        <p>Вам!</p>
+                                    </h1>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="carousel--item">
+                        <div class="wrapperCarousel--item">
+                            <div class="leftActBlog">
+                                <img class="leftActBlogImg" src="./assets/images/mainpage/carousel/carousel1.svg" alt="">
+                                <div class="leftActBlogTitleType">Курс “Стилис”</div>
+                                <div class="leftActBlogText">Радужная покраска</div>
+                            </div>
+                            <div class="rightActBlog">
+                                <div class="rightActBlogTitle">Анна Евгеньевна</div>
+                                <div class="rightActBlogStare">
+                                    <img class="rightActBlogStareImg" src="./assets/images/mainpage/carousel/star.svg" alt="">
+                                    <img class="rightActBlogStareImg" src="./assets/images/mainpage/carousel/star.svg" alt="">
+                                    <img class="rightActBlogStareImg" src="./assets/images/mainpage/carousel/star.svg" alt="">
+                                    <img class="rightActBlogStareImg" src="./assets/images/mainpage/carousel/star.svg" alt="">
+                                    <img class="rightActBlogStareImg" src="./assets/images/mainpage/carousel/star.svg" alt="">
+                                </div>
+                                <div class="rightActBlogText">
+                                    <h1>
+                                        <p>Моё лучшее решение в 2021 году было </p>
+                                        <p> пойти учиться парикмахерскому искусству.</p>
+                                        <p>Пришла я туда совершенно ничего не зная о </p>
+                                        <p>профессии, даже не умела ножницы</p>
+                                        <p>держать, а после обучения смогла стричь</p>
+                                        <p>самые коммерческие стрижки, как женские,</p>
+                                        <p>так и мужские. Четкие инструкции,</p>
+                                        <p>поддержка преподавателей дали</p>
+                                        <p>уверенность в том что я делаю. И теперь я</p>
+                                        <p>понимаю, что зная базу, ты можешь стричь</p>
+                                        <p>любые формы, осуществляя любое желание</p>
+                                        <p>клиента, а 100% базу я получила, Спасибо</p>
+                                        <p>Вам!</p>
+                                    </h1>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="carousel--item">
+                        <div class="wrapperCarousel--item">
+                            <div class="leftActBlog">
+                                <img class="leftActBlogImg" src="./assets/images/mainpage/carousel/carousel1.svg" alt="">
+                                <div class="leftActBlogTitleType">Курс “Стилис”</div>
+                                <div class="leftActBlogText">Радужная покраска</div>
+                            </div>
+                            <div class="rightActBlog">
+                                <div class="rightActBlogTitle">Анна Евгеньевна</div>
+                                <div class="rightActBlogStare">
+                                    <img class="rightActBlogStareImg" src="./assets/images/mainpage/carousel/star.svg" alt="">
+                                    <img class="rightActBlogStareImg" src="./assets/images/mainpage/carousel/star.svg" alt="">
+                                    <img class="rightActBlogStareImg" src="./assets/images/mainpage/carousel/star.svg" alt="">
+                                    <img class="rightActBlogStareImg" src="./assets/images/mainpage/carousel/star.svg" alt="">
+                                    <img class="rightActBlogStareImg" src="./assets/images/mainpage/carousel/star.svg" alt="">
+                                </div>
+                                <div class="rightActBlogText">
+                                    <h1>
+                                        <p>Моё лучшее решение в 2021 году было </p>
+                                        <p> пойти учиться парикмахерскому искусству.</p>
+                                        <p>Пришла я туда совершенно ничего не зная о </p>
+                                        <p>профессии, даже не умела ножницы</p>
+                                        <p>держать, а после обучения смогла стричь</p>
+                                        <p>самые коммерческие стрижки, как женские,</p>
+                                        <p>так и мужские. Четкие инструкции,</p>
+                                        <p>поддержка преподавателей дали</p>
+                                        <p>уверенность в том что я делаю. И теперь я</p>
+                                        <p>понимаю, что зная базу, ты можешь стричь</p>
+                                        <p>любые формы, осуществляя любое желание</p>
+                                        <p>клиента, а 100% базу я получила, Спасибо</p>
+                                        <p>Вам!</p>
+                                    </h1>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="carousel--item">
+                        <div class="wrapperCarousel--item">
+                            <div class="leftActBlog">
+                                <img class="leftActBlogImg" src="./assets/images/mainpage/carousel/carousel1.svg" alt="">
+                                <div class="leftActBlogTitleType">Курс “Стилис”</div>
+                                <div class="leftActBlogText">Радужная покраска</div>
+                            </div>
+                            <div class="rightActBlog">
+                                <div class="rightActBlogTitle">Анна Евгеньевна</div>
+                                <div class="rightActBlogStare">
+                                    <img class="rightActBlogStareImg" src="./assets/images/mainpage/carousel/star.svg" alt="">
+                                    <img class="rightActBlogStareImg" src="./assets/images/mainpage/carousel/star.svg" alt="">
+                                    <img class="rightActBlogStareImg" src="./assets/images/mainpage/carousel/star.svg" alt="">
+                                    <img class="rightActBlogStareImg" src="./assets/images/mainpage/carousel/star.svg" alt="">
+                                    <img class="rightActBlogStareImg" src="./assets/images/mainpage/carousel/star.svg" alt="">
+                                </div>
+                                <div class="rightActBlogText">
+                                    <h1>
+                                        <p>Моё лучшее решение в 2021 году было </p>
+                                        <p> пойти учиться парикмахерскому искусству.</p>
+                                        <p>Пришла я туда совершенно ничего не зная о </p>
+                                        <p>профессии, даже не умела ножницы</p>
+                                        <p>держать, а после обучения смогла стричь</p>
+                                        <p>самые коммерческие стрижки, как женские,</p>
+                                        <p>так и мужские. Четкие инструкции,</p>
+                                        <p>поддержка преподавателей дали</p>
+                                        <p>уверенность в том что я делаю. И теперь я</p>
+                                        <p>понимаю, что зная базу, ты можешь стричь</p>
+                                        <p>любые формы, осуществляя любое желание</p>
+                                        <p>клиента, а 100% базу я получила, Спасибо</p>
+                                        <p>Вам!</p>
+                                    </h1>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="carousel--item">
+                        <div class="wrapperCarousel--item">
+                            <div class="leftActBlog">
+                                <img class="leftActBlogImg" src="./assets/images/mainpage/carousel/carousel1.svg" alt="">
+                                <div class="leftActBlogTitleType">Курс “Стилис”</div>
+                                <div class="leftActBlogText">Радужная покраска</div>
+                            </div>
+                            <div class="rightActBlog">
+                                <div class="rightActBlogTitle">Анна Евгеньевна</div>
+                                <div class="rightActBlogStare">
+                                    <img class="rightActBlogStareImg" src="./assets/images/mainpage/carousel/star.svg" alt="">
+                                    <img class="rightActBlogStareImg" src="./assets/images/mainpage/carousel/star.svg" alt="">
+                                    <img class="rightActBlogStareImg" src="./assets/images/mainpage/carousel/star.svg" alt="">
+                                    <img class="rightActBlogStareImg" src="./assets/images/mainpage/carousel/star.svg" alt="">
+                                    <img class="rightActBlogStareImg" src="./assets/images/mainpage/carousel/star.svg" alt="">
+                                </div>
+                                <div class="rightActBlogText">
+                                    <h1>
+                                        <p>Моё лучшее решение в 2021 году было </p>
+                                        <p> пойти учиться парикмахерскому искусству.</p>
+                                        <p>Пришла я туда совершенно ничего не зная о </p>
+                                        <p>профессии, даже не умела ножницы</p>
+                                        <p>держать, а после обучения смогла стричь</p>
+                                        <p>самые коммерческие стрижки, как женские,</p>
+                                        <p>так и мужские. Четкие инструкции,</p>
+                                        <p>поддержка преподавателей дали</p>
+                                        <p>уверенность в том что я делаю. И теперь я</p>
+                                        <p>понимаю, что зная базу, ты можешь стричь</p>
+                                        <p>любые формы, осуществляя любое желание</p>
+                                        <p>клиента, а 100% базу я получила, Спасибо</p>
+                                        <p>Вам!</p>
+                                    </h1>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="carousel--item">
+                        <div class="wrapperCarousel--item">
+                            <div class="leftActBlog">
+                                <img class="leftActBlogImg" src="./assets/images/mainpage/carousel/carousel1.svg" alt="">
+                                <div class="leftActBlogTitleType">Курс “Стилис”</div>
+                                <div class="leftActBlogText">Радужная покраска</div>
+                            </div>
+                            <div class="rightActBlog">
+                                <div class="rightActBlogTitle">Анна Евгеньевна</div>
+                                <div class="rightActBlogStare">
+                                    <img class="rightActBlogStareImg" src="./assets/images/mainpage/carousel/star.svg" alt="">
+                                    <img class="rightActBlogStareImg" src="./assets/images/mainpage/carousel/star.svg" alt="">
+                                    <img class="rightActBlogStareImg" src="./assets/images/mainpage/carousel/star.svg" alt="">
+                                    <img class="rightActBlogStareImg" src="./assets/images/mainpage/carousel/star.svg" alt="">
+                                    <img class="rightActBlogStareImg" src="./assets/images/mainpage/carousel/star.svg" alt="">
+                                </div>
+                                <div class="rightActBlogText">
+                                    <h1>
+                                        <p>Моё лучшее решение в 2021 году было </p>
+                                        <p> пойти учиться парикмахерскому искусству.</p>
+                                        <p>Пришла я туда совершенно ничего не зная о </p>
+                                        <p>профессии, даже не умела ножницы</p>
+                                        <p>держать, а после обучения смогла стричь</p>
+                                        <p>самые коммерческие стрижки, как женские,</p>
+                                        <p>так и мужские. Четкие инструкции,</p>
+                                        <p>поддержка преподавателей дали</p>
+                                        <p>уверенность в том что я делаю. И теперь я</p>
+                                        <p>понимаю, что зная базу, ты можешь стричь</p>
+                                        <p>любые формы, осуществляя любое желание</p>
+                                        <p>клиента, а 100% базу я получила, Спасибо</p>
+                                        <p>Вам!</p>
+                                    </h1>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="carousel--item">
+                        <div class="wrapperCarousel--item">
+                            <div class="leftActBlog">
+                                <img class="leftActBlogImg" src="./assets/images/mainpage/carousel/carousel1.svg" alt="">
+                                <div class="leftActBlogTitleType">Курс “Стилис”</div>
+                                <div class="leftActBlogText">Радужная покраска</div>
+                            </div>
+                            <div class="rightActBlog">
+                                <div class="rightActBlogTitle">Анна Евгеньевна</div>
+                                <div class="rightActBlogStare">
+                                    <img class="rightActBlogStareImg" src="./assets/images/mainpage/carousel/star.svg" alt="">
+                                    <img class="rightActBlogStareImg" src="./assets/images/mainpage/carousel/star.svg" alt="">
+                                    <img class="rightActBlogStareImg" src="./assets/images/mainpage/carousel/star.svg" alt="">
+                                    <img class="rightActBlogStareImg" src="./assets/images/mainpage/carousel/star.svg" alt="">
+                                    <img class="rightActBlogStareImg" src="./assets/images/mainpage/carousel/star.svg" alt="">
+                                </div>
+                                <div class="rightActBlogText">
+                                    <h1>
+                                        <p>Моё лучшее решение в 2021 году было </p>
+                                        <p> пойти учиться парикмахерскому искусству.</p>
+                                        <p>Пришла я туда совершенно ничего не зная о </p>
+                                        <p>профессии, даже не умела ножницы</p>
+                                        <p>держать, а после обучения смогла стричь</p>
+                                        <p>самые коммерческие стрижки, как женские,</p>
+                                        <p>так и мужские. Четкие инструкции,</p>
+                                        <p>поддержка преподавателей дали</p>
+                                        <p>уверенность в том что я делаю. И теперь я</p>
+                                        <p>понимаю, что зная базу, ты можешь стричь</p>
+                                        <p>любые формы, осуществляя любое желание</p>
+                                        <p>клиента, а 100% базу я получила, Спасибо</p>
+                                        <p>Вам!</p>
+                                    </h1>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="carousel--item" style="opacity: 0;">
+                        <div class="wrapperCarousel--item">
+                            <div class="leftActBlog">
+                                <img class="leftActBlogImg" src="./assets/images/mainpage/carousel/carousel1.svg" alt="">
+                                <div class="leftActBlogTitleType">Курс “Стилис”</div>
+                                <div class="leftActBlogText">Радужная покраска</div>
+                            </div>
+                            <div class="rightActBlog">
+                                <div class="rightActBlogTitle">Анна Евгеньевна</div>
+                                <div class="rightActBlogStare">
+                                    <img class="rightActBlogStareImg" src="./assets/images/mainpage/carousel/star.svg" alt="">
+                                    <img class="rightActBlogStareImg" src="./assets/images/mainpage/carousel/star.svg" alt="">
+                                    <img class="rightActBlogStareImg" src="./assets/images/mainpage/carousel/star.svg" alt="">
+                                    <img class="rightActBlogStareImg" src="./assets/images/mainpage/carousel/star.svg" alt="">
+                                    <img class="rightActBlogStareImg" src="./assets/images/mainpage/carousel/star.svg" alt="">
+                                </div>
+                                <div class="rightActBlogText">
+                                    <h1>
+                                        <p>Моё лучшее решение в 2021 году было </p>
+                                        <p> пойти учиться парикмахерскому искусству.</p>
+                                        <p>Пришла я туда совершенно ничего не зная о </p>
+                                        <p>профессии, даже не умела ножницы</p>
+                                        <p>держать, а после обучения смогла стричь</p>
+                                        <p>самые коммерческие стрижки, как женские,</p>
+                                        <p>так и мужские. Четкие инструкции,</p>
+                                        <p>поддержка преподавателей дали</p>
+                                        <p>уверенность в том что я делаю. И теперь я</p>
+                                        <p>понимаю, что зная базу, ты можешь стричь</p>
+                                        <p>любые формы, осуществляя любое желание</p>
+                                        <p>клиента, а 100% базу я получила, Спасибо</p>
+                                        <p>Вам!</p>
+                                    </h1>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                </div>
+                <div class="carousel--progress" style="opacity: 0;">
+                    <div class="carousel--progress-bar"></div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
 <!--================ End Pages Main =================-->
 @endsection('content')

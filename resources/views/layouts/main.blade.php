@@ -33,6 +33,7 @@
     <!-- JS -->
     <script src="./assets/js/burger.js?<?= time() ?>"></script>
     <script src="./assets/js/tabs.js?<?= time() ?>"></script>
+    <script src="./assets/js/carousel.js?<?= time() ?>"></script>
 </body>
 
 </html>
