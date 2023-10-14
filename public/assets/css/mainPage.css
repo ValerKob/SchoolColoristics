@@ -538,18 +538,17 @@
 /* Fout Blog */
 .foutBlog {
     width: 100vw;
-    min-height: 1000px;
     height: auto;
     flex-shrink: 0;
 
-    padding: 60px 0;
+    padding: 30px 0 100px;
 
     background: #202020;
 }
 
 .foutBlogTitle {
     text-align: center;
-    margin-bottom: 100px;
+    margin-bottom: 50px;
 }
 
 .colFoutBlog {
@@ -570,7 +569,7 @@
 
     transition: all .3s ease-in-out 0s;
     
-    margin-bottom: 70px;
+    margin-bottom: 40px;
 }
 
 .colFoutBlog:last-child {
