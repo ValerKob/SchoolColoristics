@@ -1287,16 +1287,16 @@
     } 
 
     .titleOneBlog {
-        font-size: 34px;
-        line-height: 38px;
+        font-size: 38px;
+        line-height: 42px;
     } 
 
     .titleOneBlogImg2 {
-        width: 220px;
+        width: 250px;
     }
 
     .textOneBlogBtnImg {
-        width: 180px;
+        width: 210px;
     }
 }
 
