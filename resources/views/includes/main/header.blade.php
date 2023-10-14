@@ -1,6 +1,6 @@
 <!--================ Start Header =================-->
 <header>
-    <div class="container">
+    <div class="container" style="height: 60px;">
         <div class="headerWrapper">
             <div class="burgerMenu" id="burger">
                 <div class="burgerMenuWhite"></div>

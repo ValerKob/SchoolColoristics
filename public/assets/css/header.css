@@ -1,17 +1,22 @@
 header {
     width: 100vw;
+    height: 90px;
+
+    background-color: #0F0F0F;
+
     position: fixed;
     margin: 0 auto;
 
     z-index: 100;
+
+    box-shadow: 0 20px 20px rgba(0, 0, 0, .5);
 }
 
 .headerWrapper {
-    height: 90px;
-
     display: flex;
     justify-content: space-between;
     align-items: center;
+
 }
 
 .headerLogo {
@@ -180,6 +185,8 @@ header {
     top: 15px;
     width: 30px;
     height: 30px;
+
+    margin: 15px 0;
 }
 
 .headerUl.burger {
@@ -244,5 +251,14 @@ header {
 
     .headerLogo {
         margin: auto;
+    }
+
+    .wrapperBurger {
+        width: 330px;
+        height: 450px;
+    }
+
+    .headerUl.burger {
+        margin-top: 50px;   
     }
 }
