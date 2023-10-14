@@ -9,10 +9,10 @@
                         КОЛОРИСТИКИ
                     </div>
                     <div class="colFooterSocial">
-                        <a class="headerLink headerLinkMrImg" href="#">
+                        <a class="headerLink headerLinkMrImg" href="https://vk.com/schoolcoloristic" target="_blank">
                             <img class="headerLinkImg" src="./assets/images/social/vk.svg" alt="">
                         </a>
-                        <a class="headerLink headerLinkMrImg" href="#">
+                        <a class="headerLink headerLinkMrImg" href="https://t.me/schoolcoloristic" target="_blank">
                             <img class="headerLinkImg" src="./assets/images/social/tg.svg" alt="">
                         </a>
                     </div>
@@ -24,7 +24,7 @@
                     <div class="colFooterContent">
                         <div class="colFooterText">Ежедневно: (с 9:00 до 20:00)</div>
                         <div class="colFooterText">Тел: +7 (911) 875 44-99</div>
-                        <div class="colFooterText">Email: colorBeautyarh@gmail.ru</div>
+                        <div class="colFooterText">Email: schoolcoloristic@gmail.ru</div>
                     </div>
                 </div>
                 <div class="colFooter">

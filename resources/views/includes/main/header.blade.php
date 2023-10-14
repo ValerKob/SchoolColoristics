@@ -27,12 +27,12 @@
             </ul>
             <ul class="headerUl active">
                 <li class="headerLiImg">
-                    <a class="headerLink headerLinkMrImg" href="#">
+                    <a class="headerLink headerLinkMrImg" href="https://vk.com/schoolcoloristic" target="_blank">
                         <img class="headerLinkImg" src="./assets/images/social/vk.svg" alt="">
                     </a>
                 </li>
                 <li class="headerLiImg">
-                    <a class="headerLink headerLinkMrImg" href="#">
+                    <a class="headerLink headerLinkMrImg" href="https://t.me/schoolcoloristic" target="_blank">
                         <img class="headerLinkImg" src="./assets/images/social/tg.svg" alt="">
                     </a>
                 </li>
@@ -64,12 +64,12 @@
 
             <ul class="headerUl active burgerLink">
                 <li class="headerLiImg">
-                    <a class="headerLink headerLinkMrImg" href="#">
+                    <a class="headerLink headerLinkMrImg" href="https://vk.com/schoolcoloristic" target="_blank">
                         <img class="headerLinkImg" src="./assets/images/social/vk.svg" alt="">
                     </a>
                 </li>
                 <li class="headerLiImg">
-                    <a class="headerLink headerLinkMrImg" href="#">
+                    <a class="headerLink headerLinkMrImg" href="https://t.me/schoolcoloristic" target="_blank">
                         <img class="headerLinkImg" src="./assets/images/social/tg.svg" alt="">
                     </a>
                 </li>
