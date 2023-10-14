@@ -1,5 +1,5 @@
 <!--================ Start Footer =================-->
-<footer>
+<footer id="contact">
     <div class="container">
         <div class="wrapperFooter">
             <div class="rowFooter">
@@ -32,10 +32,10 @@
                         Страницы
                     </div>
                     <div class="colFooterContent pages">
-                        <a class="colFooterLink" href="#">Для&nbsp;кого</a>
-                        <a class="colFooterLink" href="#">О&nbsp;нас</a>
-                        <a class="colFooterLink" href="#">Курсы </a>
-                        <a class="colFooterLink" href="#">Информация</a>
+                        <a class="colFooterLink" href="#forWhom">Для&nbsp;кого</a>
+                        <a class="colFooterLink" href="#about">О&nbsp;нас</a>
+                        <a class="colFooterLink" href="#curse">Курсы </a>
+                        <a class="colFooterLink" href="#result">Информация</a>
                     </div>
                 </div>
             </div>

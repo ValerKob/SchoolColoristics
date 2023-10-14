@@ -17,7 +17,7 @@
                 <div class="textOneBlog">
 
                 </div>
-                <a class="btn" href="#"><img class="textOneBlogBtnImg" src="../assets/images/mainpage/btn.svg" alt=""></a>
+                <a class="btn" href="#about"><img class="textOneBlogBtnImg" src="../assets/images/mainpage/btn.svg" alt=""></a>
             </div>
             <div class="colOneBlog">
                 <div class="colOneBlogImg">
@@ -265,7 +265,7 @@
     </div>
 </section>
 
-<section class="twoBlog">
+<section class="twoBlog" id="forWhom">
     <div class="container">
         <div class="ellipseStat3Text mobule">
             <img src="./assets/images/mainpage/statetext.svg" alt=""> <br>
@@ -326,7 +326,7 @@
 
     </div>
 </section>
-<section class="threeBlog">
+<section class="threeBlog" id="about">
     <div class="ellipseWhite1">
         <svg xmlns="http://www.w3.org/2000/svg" width="886" height="900" viewBox="0 0 886 900" fill="none">
             <g filter="url(#filter0_d_71_13)">
@@ -385,7 +385,7 @@
         </div>
     </div>
 </section>
-<section class="foutBlog">
+<section class="foutBlog" id="curse">
     <div class="container">
         <div class="foutBlogTitle"><img class="foutBlogTitleImg" src="./assets/images/mainpage/title_course.svg" alt=""></div>
         <div class="rowFoutBlog">
@@ -607,7 +607,7 @@
     </div>
 </section>
 
-<section class="fiveBlog">
+<section class="fiveBlog" id="result">
     <div class="container">
         <div class="fiveBlogTitle">
             <img class="fiveBlogTitleImg" src="./assets/images/mainpage/fiveTitle.svg" alt="">

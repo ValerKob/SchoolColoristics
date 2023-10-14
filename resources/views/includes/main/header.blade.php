@@ -10,19 +10,19 @@
             </div>
             <ul class="headerUl">
                 <li class="headerLi">
-                    <a class="headerLink" href="#">Для&nbsp;кого</a>
+                    <a class="headerLink" href="#forWhom">Для&nbsp;кого</a>
                 </li>
                 <li class="headerLi">
-                    <a class="headerLink" href="#">О&nbsp;нас</a>
+                    <a class="headerLink" href="#about">О&nbsp;нас</a>
                 </li>
                 <li class="headerLi">
-                    <a class="headerLink" href="#">Курсы</a>
+                    <a class="headerLink" href="#curse">Курсы</a>
                 </li>
                 <li class="headerLi">
-                    <a class="headerLink" href="#">Результаты&nbsp;учеников</a>
+                    <a class="headerLink" href="#result">Результаты&nbsp;учеников</a>
                 </li>
                 <li class="headerLi">
-                    <a class="headerLink" href="#">Контакты</a>
+                    <a class="headerLink" href="#contact">Контакты</a>
                 </li>
             </ul>
             <ul class="headerUl active">
@@ -46,19 +46,19 @@
             <div class="closeBurger" id="close"><img src="./assets/images/close.svg" alt=""></div>
             <ul class="headerUl active burger">
                 <li class="headerLi burger">
-                    <a class="headerLink" href="#">Для&nbsp;кого</a>
+                    <a class="headerLink" href="#forWhom">Для&nbsp;кого</a>
                 </li>
                 <li class="headerLi burger">
-                    <a class="headerLink" href="#">О&nbsp;нас</a>
+                    <a class="headerLink" href="#about">О&nbsp;нас</a>
                 </li>
                 <li class="headerLi burger">
-                    <a class="headerLink" href="#">Курсы</a>
+                    <a class="headerLink" href="#curse">Курсы</a>
                 </li>
                 <li class="headerLi burger">
-                    <a class="headerLink" href="#">Результаты&nbsp;учеников</a>
+                    <a class="headerLink" href="#result">Результаты&nbsp;учеников</a>
                 </li>
                 <li class="headerLi burger">
-                    <a class="headerLink" href="#">Контакты</a>
+                    <a class="headerLink" href="#contact">Контакты</a>
                 </li>
             </ul>
 
