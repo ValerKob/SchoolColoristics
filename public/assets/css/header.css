@@ -254,11 +254,24 @@ header {
     }
 
     .wrapperBurger {
-        width: 330px;
-        height: 450px;
+        width: 270px;
+        height: 380px;
     }
 
     .headerUl.burger {
-        margin-top: 50px;   
+        margin-top: 0; 
+        margin-left: 10px;  
+    }
+
+    .headerLogoImg.burger {
+        width: 120px;
+    }
+
+    .closeBurger {
+        width: 15px;
+    }
+
+    .headerLi.burger .headerLink {
+        font-size: 14px;
     }
 }
