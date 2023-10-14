@@ -1263,23 +1263,6 @@
     }
 
     /* Three Blog */
-    .colFoutBlogContent {
-        grid-template-columns: 1fr;
-    }
-
-    .foutBlogContentCol {
-        margin-bottom: 50px;
-    }
-
-    .foutBlogContentCol:last-child {
-        margin-top: 0;
-        margin-bottom: 0;
-    }
-
-    .colFoutBlogTitle {
-        font-size: 22px;
-    }
-
     .fiveBlogInfoTagTitle {
         max-width: 250px;
         font-size: 12px;
@@ -1296,6 +1279,40 @@
 
     .textOneBlogBtnImg {
         max-width: 210px;
+    }
+
+    /* Fout Blog */
+    .foutBlog {
+        padding: 40px 0;
+    }
+
+    .foutBlogContentCol {
+        margin-bottom: 50px;
+    }
+
+    .foutBlogContentCol:last-child {
+        margin-top: 0;
+        margin-bottom: 0;
+    }
+
+    .colFoutBlog {
+        height: 90px;
+    }
+
+    .colFoutBlogHeader {
+        height: 25px;
+    }
+
+    .colFoutBlogContent {
+        grid-template-columns: 1fr;
+    }
+
+    .colFoutBlogTitle {
+        font-size: 16px;
+    }
+
+    .colFoutBlogPlus img {
+        width: 30px;
     }
 }
 
