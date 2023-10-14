@@ -23,7 +23,7 @@
                     </div>
                     <div class="colFooterContent telEmail">
                         <div class="colFooterText">Ежедневно: (с 9:00 до 20:00)</div>
-                        <a href="tel:+79118754499" class="colFooterText">Тел: +7 (911) 875 44-99</a>
+                        <a href="tel:+79118754499" class="colFooterText" content="telephone=no">Тел: +7 (911) 875 44-99</a>
                         <a href="mailto:schoolcoloristic@gmail.ru" class="colFooterText">Email: schoolcoloristic@gmail.ru</a>
                     </div>
                 </div>
