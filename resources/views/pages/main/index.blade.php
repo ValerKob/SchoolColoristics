@@ -1,6 +1,7 @@
 @extends('layouts.main')
 
-@section('title', 'Главная страница')
+<!-- @section('title', 'Главная страница') -->
+@section('title')
 
 @section('content')
 <!--================ Start Pages Main =================-->
@@ -11,18 +12,18 @@
                 <div class="titleOneBlog">
                     школа <br> колористики <br>
                     <!-- <p class="titleOneBlogText">и окрашивания волос</p> -->
-                    <img class="titleOneBlogImg" src="../assets/images/mainpage/text.svg" alt="">
-                    <img class="titleOneBlogImg2" src="../assets/images/mainpage/text2.svg" alt="">
+                    <img class="titleOneBlogImg" src="../assets/images/mainpage/text.svg" alt="Школа колористики">
+                    <img class="titleOneBlogImg2" src="../assets/images/mainpage/text2.svg" alt="Школа колористики">
                 </div>
-                <div class="textOneBlog">
+                <div class=" textOneBlog">
 
                 </div>
-                <a class="btn" href="#about"><img class="textOneBlogBtnImg" src="../assets/images/mainpage/btn.svg" alt=""></a>
+                <a class="btn" href="#about"><img class="textOneBlogBtnImg" src="../assets/images/mainpage/btn.svg" alt="Школа колористик"></a>
             </div>
             <div class="colOneBlog">
                 <div class="colOneBlogImg">
                     <div class="wrapperOneBlogImages mobule">
-                        <img class="oneBlogImages" src="../assets/images/mainpage/oneblog.svg" alt="">
+                        <img class="oneBlogImages" src="../assets/images/mainpage/oneblog.svg" alt="Школа колористик">
                     </div>
                     <!-- <div class="colOneBlogEllipses"> -->
                     <div class="colOneBlogEllise">
@@ -268,11 +269,11 @@
 <section class="twoBlog" id="forWhom">
     <div class="container">
         <div class="ellipseStat3Text mobule">
-            <img src="./assets/images/mainpage/statetext.svg" alt=""> <br>
+            <img src="./assets/images/mainpage/statetext.svg" alt="Школа колористик"> <br>
             ДЛЯ ТЕХ, КТО:
         </div>
         <div class="ellipseStat1">
-            <img class="ellipseStatImg" src="./assets/images/mainpage/stateone.svg" alt="">
+            <img class="ellipseStatImg" src="./assets/images/mainpage/stateone.svg" alt="Школа колористик">
             <div class="ellipseStatText">
                 Давно <b> хотел, но не решался освоить парикмахерское</b> искусство
             </div>
@@ -281,7 +282,7 @@
         <div class="colEllipseStat2">
             <div class="ellipseStat2">
                 <div>
-                    <img class="ellipseStatImg" src="./assets/images/mainpage/statetwo.svg" alt="">
+                    <img class="ellipseStatImg" src="./assets/images/mainpage/statetwo.svg" alt="Школа колористик">
                     <div class="ellipseStatText">
                         Хочешь <b> красить близких не выходя</b> из дома
                     </div>
@@ -290,7 +291,7 @@
 
             <div class="ellipseStat2">
                 <div>
-                    <img class="ellipseStatImg" src="./assets/images/mainpage/statethree.svg" alt="">
+                    <img class="ellipseStatImg" src="./assets/images/mainpage/statethree.svg" alt="Школа колористик">
                     <div class="ellipseStatText">
                         Устал <b> от рутины и хочет</b> творчества
                     </div>
@@ -299,7 +300,7 @@
         </div>
 
         <div class="ellipseStat3Text">
-            <img src="./assets/images/mainpage/statetext.svg" alt=""> <br>
+            <img src="./assets/images/mainpage/statetext.svg" alt="Школа колористик"> <br>
             ДЛЯ ТЕХ, КТО:
         </div>
 
@@ -307,7 +308,7 @@
         <div class="colEllipseStat4">
             <div class="ellipseStat4">
                 <div>
-                    <img class="ellipseStatImg" src="./assets/images/mainpage/statefour.svg" alt="">
+                    <img class="ellipseStatImg" src="./assets/images/mainpage/statefour.svg" alt="Школа колористик">
                     <div class="ellipseStatText">
                         Ищет <b> дополнительный <br> источник</b> дохода
                     </div>
@@ -316,7 +317,7 @@
 
             <div class="ellipseStat4">
                 <div>
-                    <img class="ellipseStatImg" src="./assets/images/mainpage/statefive.svg" alt="">
+                    <img class="ellipseStatImg" src="./assets/images/mainpage/statefive.svg" alt="Школа колористик">
                     <div class="ellipseStatText">
                         Хочет <b> заниматься любимым делом и зарабатывать на этом </b> деньги
                     </div>
@@ -368,7 +369,7 @@
     <div class="container">
         <div class="wrapperThreeBlog">
             <div class="ellipseCenter"></div>
-            <div class="aboutText"><img src="./assets/images/mainpage/abouttitle.svg" alt=""></div>
+            <div class="aboutText"><img src="./assets/images/mainpage/abouttitle.svg" alt="Школа колористик"></div>
             <div class="aboutContent">
                 <b> Наша </b> команда всегда стремится совершенствовать старые подходы в мире колористики волос. Наши преподаватели всегда развиваются и обучаются у самых топовых стилистов по всесму миру!
                 <br>
@@ -387,7 +388,7 @@
 </section>
 <section class="foutBlog" id="curse">
     <div class="container">
-        <div class="foutBlogTitle"><img class="foutBlogTitleImg" src="./assets/images/mainpage/title_course.svg" alt=""></div>
+        <div class="foutBlogTitle"><img class="foutBlogTitleImg" src="./assets/images/mainpage/title_course.svg" alt="Школа колористик"></div>
         <div class="rowFoutBlog">
             <div class="colFoutBlog" id="colFoutBlogOne">
                 <div class="colFoutBlogHeader">
@@ -395,7 +396,7 @@
                         Колорист с нуля
                     </div>
                     <div class="colFoutBlogPlus" id="colFoutBlogPlusOne">
-                        <img src="./assets/images/mainpage/plus.svg" alt="">
+                        <img src="./assets/images/mainpage/plus.svg" alt="Школа колористик">
                     </div>
                 </div>
                 <div class="wrapperColFoutBlogContent">
@@ -403,15 +404,15 @@
                         <div class="foutBlogContentCol">
                             <div class="foutBlogContentColTitle">Колористика:</div>
                             <div class="foutBlogContentColType">
-                                <img class="foutBlogContentColTypeImg" src="./assets/images/mainpage/good.svg" alt="">
+                                <img class="foutBlogContentColTypeImg" src="./assets/images/mainpage/good.svg" alt="Школа колористик">
                                 <div class="foutBlogContentColTypeText">Типы красителей</div>
                             </div>
                             <div class="foutBlogContentColType">
-                                <img class="foutBlogContentColTypeImg" src="./assets/images/mainpage/good.svg" alt="">
+                                <img class="foutBlogContentColTypeImg" src="./assets/images/mainpage/good.svg" alt="Школа колористик">
                                 <div class="foutBlogContentColTypeText">Структура волос</div>
                             </div>
                             <div class="foutBlogContentColType">
-                                <img class="foutBlogContentColTypeImg" src="./assets/images/mainpage/good.svg" alt="">
+                                <img class="foutBlogContentColTypeImg" src="./assets/images/mainpage/good.svg" alt="Школа колористик">
                                 <div class="foutBlogContentColTypeText">Фон осветления /
                                     Нейтрализация </div>
                             </div>
@@ -420,12 +421,12 @@
                         <div class="foutBlogContentCol">
                             <div class="foutBlogContentColTitle">Уровень включает в себя:</div>
                             <div class="foutBlogContentColType">
-                                <img class="foutBlogContentColTypeImg" src="./assets/images/mainpage/good.svg" alt="">
+                                <img class="foutBlogContentColTypeImg" src="./assets/images/mainpage/good.svg" alt="Школа колористик">
                                 <div class="foutBlogContentColTypeText">Базовые знания по
                                     колористике волос </div>
                             </div>
                             <div class="foutBlogContentColType">
-                                <img class="foutBlogContentColTypeImg" src="./assets/images/mainpage/good.svg" alt="">
+                                <img class="foutBlogContentColTypeImg" src="./assets/images/mainpage/good.svg" alt="Школа колористик">
                                 <div class="foutBlogContentColTypeText">Длительность 3 дня</div>
                             </div>
                         </div>
@@ -434,7 +435,7 @@
                         <div class="foutBlogContentCol">
                             <div class="foutBlogContentColTitle">Результат:</div>
                             <div class="foutBlogContentColType">
-                                <img class="foutBlogContentColTypeImg" src="./assets/images/mainpage/good.svg" alt="">
+                                <img class="foutBlogContentColTypeImg" src="./assets/images/mainpage/good.svg" alt="Школа колористик">
                                 <div class="foutBlogContentColTypeText">Поймёте как работает краситель и узнаете правила работы с волосами. </div>
                             </div>
                         </div>
@@ -442,11 +443,11 @@
 
                     <div class="priceFoutBlogContent">
                         <div class="wrapperPriceFoutBlogContent">
-                            <div class="priceFoutBlogContentActive one"><img class="priceFoutBlogContentActiveImg" src="./assets/images/mainpage/price/one.svg" alt=""></div>
+                            <div class="priceFoutBlogContentActive one"><img class="priceFoutBlogContentActiveImg" src="./assets/images/mainpage/price/one.svg" alt="Школа колористик"></div>
                             <div class="priceFoutBlogContentActiveText">Тариф с обратной связью</div>
                         </div>
                         <div class="wrapperPriceFoutBlogContent">
-                            <div class="priceFoutBlogContentActive"><img class="priceFoutBlogContentActiveImg" src="./assets/images/mainpage/price/btn.svg" alt=""></div>
+                            <div class="priceFoutBlogContentActive"><img class="priceFoutBlogContentActiveImg" src="./assets/images/mainpage/price/btn.svg" alt="Школа колористик"></div>
                             <div class="priceFoutBlogContentActiveText"> <b>Тариф без обратной связи </b> 5 600 руб.</div>
                         </div>
                     </div>
@@ -459,7 +460,7 @@
                         НЕ ТУПОЙ Колорист
                     </div>
                     <div class="colFoutBlogPlus" id="colFoutBlogPlusTwo">
-                        <img src="./assets/images/mainpage/plus.svg" alt="">
+                        <img src="./assets/images/mainpage/plus.svg" alt="Школа колористик">
                     </div>
                 </div>
                 <div class="wrapperColFoutBlogContent">
@@ -467,15 +468,15 @@
                         <div class="foutBlogContentCol">
                             <div class="foutBlogContentColTitle">Колористика:</div>
                             <div class="foutBlogContentColType">
-                                <img class="foutBlogContentColTypeImg" src="./assets/images/mainpage/good.svg" alt="">
+                                <img class="foutBlogContentColTypeImg" src="./assets/images/mainpage/good.svg" alt="Школа колористик">
                                 <div class="foutBlogContentColTypeText">Типы красителей</div>
                             </div>
                             <div class="foutBlogContentColType">
-                                <img class="foutBlogContentColTypeImg" src="./assets/images/mainpage/good.svg" alt="">
+                                <img class="foutBlogContentColTypeImg" src="./assets/images/mainpage/good.svg" alt="Школа колористик">
                                 <div class="foutBlogContentColTypeText">Структура волос</div>
                             </div>
                             <div class="foutBlogContentColType">
-                                <img class="foutBlogContentColTypeImg" src="./assets/images/mainpage/good.svg" alt="">
+                                <img class="foutBlogContentColTypeImg" src="./assets/images/mainpage/good.svg" alt="Школа колористик">
                                 <div class="foutBlogContentColTypeText">Фон осветления /
                                     Нейтрализация </div>
                             </div>
@@ -484,12 +485,12 @@
                         <div class="foutBlogContentCol">
                             <div class="foutBlogContentColTitle">Уровень включает в себя:</div>
                             <div class="foutBlogContentColType">
-                                <img class="foutBlogContentColTypeImg" src="./assets/images/mainpage/good.svg" alt="">
+                                <img class="foutBlogContentColTypeImg" src="./assets/images/mainpage/good.svg" alt="Школа колористик">
                                 <div class="foutBlogContentColTypeText">Базовые знания по
                                     колористике волос </div>
                             </div>
                             <div class="foutBlogContentColType">
-                                <img class="foutBlogContentColTypeImg" src="./assets/images/mainpage/good.svg" alt="">
+                                <img class="foutBlogContentColTypeImg" src="./assets/images/mainpage/good.svg" alt="Школа колористик">
                                 <div class="foutBlogContentColTypeText">Длительность 3 дня</div>
                             </div>
                         </div>
@@ -498,7 +499,7 @@
                         <div class="foutBlogContentCol">
                             <div class="foutBlogContentColTitle">Результат:</div>
                             <div class="foutBlogContentColType">
-                                <img class="foutBlogContentColTypeImg" src="./assets/images/mainpage/good.svg" alt="">
+                                <img class="foutBlogContentColTypeImg" src="./assets/images/mainpage/good.svg" alt="Школа колористик">
                                 <div class="foutBlogContentColTypeText">Поймёте как работает краситель и узнаете правила работы с волосами. </div>
                             </div>
                         </div>
@@ -506,11 +507,11 @@
 
                     <div class="priceFoutBlogContent">
                         <div class="wrapperPriceFoutBlogContent">
-                            <div class="priceFoutBlogContentActive one"><img class="priceFoutBlogContentActiveImg" src="./assets/images/mainpage/price/one.svg" alt=""></div>
+                            <div class="priceFoutBlogContentActive one"><img class="priceFoutBlogContentActiveImg" src="./assets/images/mainpage/price/one.svg" alt="Школа колористик"></div>
                             <div class="priceFoutBlogContentActiveText">Тариф с обратной связью</div>
                         </div>
                         <div class="wrapperPriceFoutBlogContent">
-                            <div class="priceFoutBlogContentActive"><img class="priceFoutBlogContentActiveImg" src="./assets/images/mainpage/price/btn.svg" alt=""></div>
+                            <div class="priceFoutBlogContentActive"><img class="priceFoutBlogContentActiveImg" src="./assets/images/mainpage/price/btn.svg" alt="Школа колористик"></div>
                             <div class="priceFoutBlogContentActiveText"> <b>Тариф без обратной связи </b> 5 600 руб.</div>
                         </div>
                     </div>
@@ -523,7 +524,7 @@
                         Колорист с 0 (длительность курса 1 месяц)
                     </div>
                     <div class="colFoutBlogPlus" id="colFoutBlogPlusThree">
-                        <img src="./assets/images/mainpage/plus.svg" alt="">
+                        <img src="./assets/images/mainpage/plus.svg" alt="Школа колористик">
                     </div>
                 </div>
                 <div class="wrapperColFoutBlogContent">
@@ -531,31 +532,31 @@
                         <div class="foutBlogContentCol">
                             <div class="foutBlogContentColTitle">Включает в себя:</div>
                             <div class="foutBlogContentColType">
-                                <img class="foutBlogContentColTypeImg" src="./assets/images/mainpage/good.svg" alt="">
+                                <img class="foutBlogContentColTypeImg" src="./assets/images/mainpage/good.svg" alt="Школа колористик">
                                 <div class="foutBlogContentColTypeText">Изучение основ цветоведения</div>
                             </div>
                             <div class="foutBlogContentColType">
-                                <img class="foutBlogContentColTypeImg" src="./assets/images/mainpage/good.svg" alt="">
+                                <img class="foutBlogContentColTypeImg" src="./assets/images/mainpage/good.svg" alt="Школа колористик">
                                 <div class="foutBlogContentColTypeText">Работа с палитрой</div>
                             </div>
                             <div class="foutBlogContentColType">
-                                <img class="foutBlogContentColTypeImg" src="./assets/images/mainpage/good.svg" alt="">
+                                <img class="foutBlogContentColTypeImg" src="./assets/images/mainpage/good.svg" alt="Школа колористик">
                                 <div class="foutBlogContentColTypeText">Принципы взаимодействия
                                     красителя и волоса</div>
                             </div>
 
                             <div class="foutBlogContentColType">
-                                <img class="foutBlogContentColTypeImg" src="./assets/images/mainpage/good.svg" alt="">
+                                <img class="foutBlogContentColTypeImg" src="./assets/images/mainpage/good.svg" alt="Школа колористик">
                                 <div class="foutBlogContentColTypeText">Решения колористических
                                     задач</div>
                             </div>
                             <div class="foutBlogContentColType">
-                                <img class="foutBlogContentColTypeImg" src="./assets/images/mainpage/good.svg" alt="">
+                                <img class="foutBlogContentColTypeImg" src="./assets/images/mainpage/good.svg" alt="Школа колористик">
                                 <div class="foutBlogContentColTypeText">Знакомства с техниками
                                     окрашивания</div>
                             </div>
                             <div class="foutBlogContentColType">
-                                <img class="foutBlogContentColTypeImg" src="./assets/images/mainpage/good.svg" alt="">
+                                <img class="foutBlogContentColTypeImg" src="./assets/images/mainpage/good.svg" alt="Школа колористик">
                                 <div class="foutBlogContentColTypeText">Виды красителей и их
                                     особенности</div>
                             </div>
@@ -564,12 +565,12 @@
                         <div class="foutBlogContentCol">
                             <div class="foutBlogContentColTitle">Уровень включает в себя:</div>
                             <div class="foutBlogContentColType">
-                                <img class="foutBlogContentColTypeImg" src="./assets/images/mainpage/good.svg" alt="">
+                                <img class="foutBlogContentColTypeImg" src="./assets/images/mainpage/good.svg" alt="Школа колористик">
                                 <div class="foutBlogContentColTypeText">Базовые знания по
                                     колористике волос </div>
                             </div>
                             <div class="foutBlogContentColType">
-                                <img class="foutBlogContentColTypeImg" src="./assets/images/mainpage/good.svg" alt="">
+                                <img class="foutBlogContentColTypeImg" src="./assets/images/mainpage/good.svg" alt="Школа колористик">
                                 <div class="foutBlogContentColTypeText">Длительность 3 дня</div>
                             </div>
                         </div>
@@ -578,13 +579,13 @@
                         <div class="foutBlogContentCol">
                             <div class="foutBlogContentColTitle">Результат:</div>
                             <div class="foutBlogContentColType">
-                                <img class="foutBlogContentColTypeImg" src="./assets/images/mainpage/good.svg" alt="">
+                                <img class="foutBlogContentColTypeImg" src="./assets/images/mainpage/good.svg" alt="Школа колористик">
                                 <div class="foutBlogContentColTypeText">Возможность работать
                                     колористом в салоне или на себя</div>
                             </div>
 
                             <div class="foutBlogContentColType">
-                                <img class="foutBlogContentColTypeImg" src="./assets/images/mainpage/good.svg" alt="">
+                                <img class="foutBlogContentColTypeImg" src="./assets/images/mainpage/good.svg" alt="Школа колористик">
                                 <div class="foutBlogContentColTypeText">Возможность зарабатывать
                                     от 100.000 рублей в месяц </div>
                             </div>
@@ -593,11 +594,11 @@
 
                     <div class="priceFoutBlogContent">
                         <div class="wrapperPriceFoutBlogContent">
-                            <div class="priceFoutBlogContentActive one"><img class="priceFoutBlogContentActiveImg" src="./assets/images/mainpage/price/one.svg" alt=""></div>
+                            <div class="priceFoutBlogContentActive one"><img class="priceFoutBlogContentActiveImg" src="./assets/images/mainpage/price/one.svg" alt="Школа колористик"></div>
                             <div class="priceFoutBlogContentActiveText">Тариф с обратной связью</div>
                         </div>
                         <div class="wrapperPriceFoutBlogContent">
-                            <div class="priceFoutBlogContentActive"><img class="priceFoutBlogContentActiveImg" src="./assets/images/mainpage/price/btn.svg" alt=""></div>
+                            <div class="priceFoutBlogContentActive"><img class="priceFoutBlogContentActiveImg" src="./assets/images/mainpage/price/btn.svg" alt="Школа колористик"></div>
                             <div class="priceFoutBlogContentActiveText"> <b>Тариф без обратной связи </b> 5 600 руб.</div>
                         </div>
                     </div>
@@ -610,12 +611,12 @@
 <section class="fiveBlog" id="result">
     <div class="container">
         <div class="fiveBlogTitle">
-            <img class="fiveBlogTitleImg" src="./assets/images/mainpage/fiveTitle.svg" alt="">
+            <img class="fiveBlogTitleImg" src="./assets/images/mainpage/fiveTitle.svg" alt="Школа колористик">
         </div>
         <div class="wrapperFiveBlog">
 
             <!-- <div class="leftActBlogTitle">
-                        <img class="leftActBlogImg" src="./assets/images/mainpage/carousel/carousel1.svg" alt="">
+                        <img class="leftActBlogImg" src="./assets/images/mainpage/carousel/carousel1.svg" alt="Школа колористик">
                         <div class="leftActBlogTitleType">Курс “Стилис”</div>
                         <div class="leftActBlogText">Радужная покраска</div>
                     </div>
@@ -628,18 +629,18 @@
                     <div class="carousel--item">
                         <div class="wrapperCarousel--item">
                             <div class="leftActBlog">
-                                <img class="leftActBlogImg" src="./assets/images/mainpage/carousel/carousel1.svg" alt="">
+                                <img class="leftActBlogImg" src="./assets/images/mainpage/carousel/carousel1.svg" alt="Школа колористик">
                                 <div class="leftActBlogTitleType">Курс “Стилис”</div>
                                 <div class="leftActBlogText">Радужная покраска</div>
                             </div>
                             <div class="rightActBlog">
                                 <div class="rightActBlogTitle">Анна Евгеньевна</div>
                                 <div class="rightActBlogStare">
-                                    <img class="rightActBlogStareImg" src="./assets/images/mainpage/carousel/star.svg" alt="">
-                                    <img class="rightActBlogStareImg" src="./assets/images/mainpage/carousel/star.svg" alt="">
-                                    <img class="rightActBlogStareImg" src="./assets/images/mainpage/carousel/star.svg" alt="">
-                                    <img class="rightActBlogStareImg" src="./assets/images/mainpage/carousel/star.svg" alt="">
-                                    <img class="rightActBlogStareImg" src="./assets/images/mainpage/carousel/star.svg" alt="">
+                                    <img class="rightActBlogStareImg" src="./assets/images/mainpage/carousel/star.svg" alt="Школа колористик">
+                                    <img class="rightActBlogStareImg" src="./assets/images/mainpage/carousel/star.svg" alt="Школа колористик">
+                                    <img class="rightActBlogStareImg" src="./assets/images/mainpage/carousel/star.svg" alt="Школа колористик">
+                                    <img class="rightActBlogStareImg" src="./assets/images/mainpage/carousel/star.svg" alt="Школа колористик">
+                                    <img class="rightActBlogStareImg" src="./assets/images/mainpage/carousel/star.svg" alt="Школа колористик">
                                 </div>
                                 <div class="rightActBlogText">
                                     <h1>
@@ -665,18 +666,18 @@
                     <div class="carousel--item">
                         <div class="wrapperCarousel--item">
                             <div class="leftActBlog">
-                                <img class="leftActBlogImg" src="./assets/images/mainpage/carousel/carousel1.svg" alt="">
+                                <img class="leftActBlogImg" src="./assets/images/mainpage/carousel/carousel1.svg" alt="Школа колористик">
                                 <div class="leftActBlogTitleType">Курс “Стилис”</div>
                                 <div class="leftActBlogText">Радужная покраска</div>
                             </div>
                             <div class="rightActBlog">
                                 <div class="rightActBlogTitle">Анна Евгеньевна</div>
                                 <div class="rightActBlogStare">
-                                    <img class="rightActBlogStareImg" src="./assets/images/mainpage/carousel/star.svg" alt="">
-                                    <img class="rightActBlogStareImg" src="./assets/images/mainpage/carousel/star.svg" alt="">
-                                    <img class="rightActBlogStareImg" src="./assets/images/mainpage/carousel/star.svg" alt="">
-                                    <img class="rightActBlogStareImg" src="./assets/images/mainpage/carousel/star.svg" alt="">
-                                    <img class="rightActBlogStareImg" src="./assets/images/mainpage/carousel/star.svg" alt="">
+                                    <img class="rightActBlogStareImg" src="./assets/images/mainpage/carousel/star.svg" alt="Школа колористик">
+                                    <img class="rightActBlogStareImg" src="./assets/images/mainpage/carousel/star.svg" alt="Школа колористик">
+                                    <img class="rightActBlogStareImg" src="./assets/images/mainpage/carousel/star.svg" alt="Школа колористик">
+                                    <img class="rightActBlogStareImg" src="./assets/images/mainpage/carousel/star.svg" alt="Школа колористик">
+                                    <img class="rightActBlogStareImg" src="./assets/images/mainpage/carousel/star.svg" alt="Школа колористик">
                                 </div>
                                 <div class="rightActBlogText">
                                     <h1>
@@ -702,18 +703,18 @@
                     <div class="carousel--item">
                         <div class="wrapperCarousel--item">
                             <div class="leftActBlog">
-                                <img class="leftActBlogImg" src="./assets/images/mainpage/carousel/carousel1.svg" alt="">
+                                <img class="leftActBlogImg" src="./assets/images/mainpage/carousel/carousel1.svg" alt="Школа колористик">
                                 <div class="leftActBlogTitleType">Курс “Стилис”</div>
                                 <div class="leftActBlogText">Радужная покраска</div>
                             </div>
                             <div class="rightActBlog">
                                 <div class="rightActBlogTitle">Анна Евгеньевна</div>
                                 <div class="rightActBlogStare">
-                                    <img class="rightActBlogStareImg" src="./assets/images/mainpage/carousel/star.svg" alt="">
-                                    <img class="rightActBlogStareImg" src="./assets/images/mainpage/carousel/star.svg" alt="">
-                                    <img class="rightActBlogStareImg" src="./assets/images/mainpage/carousel/star.svg" alt="">
-                                    <img class="rightActBlogStareImg" src="./assets/images/mainpage/carousel/star.svg" alt="">
-                                    <img class="rightActBlogStareImg" src="./assets/images/mainpage/carousel/star.svg" alt="">
+                                    <img class="rightActBlogStareImg" src="./assets/images/mainpage/carousel/star.svg" alt="Школа колористик">
+                                    <img class="rightActBlogStareImg" src="./assets/images/mainpage/carousel/star.svg" alt="Школа колористик">
+                                    <img class="rightActBlogStareImg" src="./assets/images/mainpage/carousel/star.svg" alt="Школа колористик">
+                                    <img class="rightActBlogStareImg" src="./assets/images/mainpage/carousel/star.svg" alt="Школа колористик">
+                                    <img class="rightActBlogStareImg" src="./assets/images/mainpage/carousel/star.svg" alt="Школа колористик">
                                 </div>
                                 <div class="rightActBlogText">
                                     <h1>
@@ -739,18 +740,18 @@
                     <div class="carousel--item">
                         <div class="wrapperCarousel--item">
                             <div class="leftActBlog">
-                                <img class="leftActBlogImg" src="./assets/images/mainpage/carousel/carousel1.svg" alt="">
+                                <img class="leftActBlogImg" src="./assets/images/mainpage/carousel/carousel1.svg" alt="Школа колористик">
                                 <div class="leftActBlogTitleType">Курс “Стилис”</div>
                                 <div class="leftActBlogText">Радужная покраска</div>
                             </div>
                             <div class="rightActBlog">
                                 <div class="rightActBlogTitle">Анна Евгеньевна</div>
                                 <div class="rightActBlogStare">
-                                    <img class="rightActBlogStareImg" src="./assets/images/mainpage/carousel/star.svg" alt="">
-                                    <img class="rightActBlogStareImg" src="./assets/images/mainpage/carousel/star.svg" alt="">
-                                    <img class="rightActBlogStareImg" src="./assets/images/mainpage/carousel/star.svg" alt="">
-                                    <img class="rightActBlogStareImg" src="./assets/images/mainpage/carousel/star.svg" alt="">
-                                    <img class="rightActBlogStareImg" src="./assets/images/mainpage/carousel/star.svg" alt="">
+                                    <img class="rightActBlogStareImg" src="./assets/images/mainpage/carousel/star.svg" alt="Школа колористик">
+                                    <img class="rightActBlogStareImg" src="./assets/images/mainpage/carousel/star.svg" alt="Школа колористик">
+                                    <img class="rightActBlogStareImg" src="./assets/images/mainpage/carousel/star.svg" alt="Школа колористик">
+                                    <img class="rightActBlogStareImg" src="./assets/images/mainpage/carousel/star.svg" alt="Школа колористик">
+                                    <img class="rightActBlogStareImg" src="./assets/images/mainpage/carousel/star.svg" alt="Школа колористик">
                                 </div>
                                 <div class="rightActBlogText">
                                     <h1>
@@ -776,18 +777,18 @@
                     <div class="carousel--item">
                         <div class="wrapperCarousel--item">
                             <div class="leftActBlog">
-                                <img class="leftActBlogImg" src="./assets/images/mainpage/carousel/carousel1.svg" alt="">
+                                <img class="leftActBlogImg" src="./assets/images/mainpage/carousel/carousel1.svg" alt="Школа колористик">
                                 <div class="leftActBlogTitleType">Курс “Стилис”</div>
                                 <div class="leftActBlogText">Радужная покраска</div>
                             </div>
                             <div class="rightActBlog">
                                 <div class="rightActBlogTitle">Анна Евгеньевна</div>
                                 <div class="rightActBlogStare">
-                                    <img class="rightActBlogStareImg" src="./assets/images/mainpage/carousel/star.svg" alt="">
-                                    <img class="rightActBlogStareImg" src="./assets/images/mainpage/carousel/star.svg" alt="">
-                                    <img class="rightActBlogStareImg" src="./assets/images/mainpage/carousel/star.svg" alt="">
-                                    <img class="rightActBlogStareImg" src="./assets/images/mainpage/carousel/star.svg" alt="">
-                                    <img class="rightActBlogStareImg" src="./assets/images/mainpage/carousel/star.svg" alt="">
+                                    <img class="rightActBlogStareImg" src="./assets/images/mainpage/carousel/star.svg" alt="Школа колористик">
+                                    <img class="rightActBlogStareImg" src="./assets/images/mainpage/carousel/star.svg" alt="Школа колористик">
+                                    <img class="rightActBlogStareImg" src="./assets/images/mainpage/carousel/star.svg" alt="Школа колористик">
+                                    <img class="rightActBlogStareImg" src="./assets/images/mainpage/carousel/star.svg" alt="Школа колористик">
+                                    <img class="rightActBlogStareImg" src="./assets/images/mainpage/carousel/star.svg" alt="Школа колористик">
                                 </div>
                                 <div class="rightActBlogText">
                                     <h1>
@@ -813,18 +814,18 @@
                     <div class="carousel--item">
                         <div class="wrapperCarousel--item">
                             <div class="leftActBlog">
-                                <img class="leftActBlogImg" src="./assets/images/mainpage/carousel/carousel1.svg" alt="">
+                                <img class="leftActBlogImg" src="./assets/images/mainpage/carousel/carousel1.svg" alt="Школа колористик">
                                 <div class="leftActBlogTitleType">Курс “Стилис”</div>
                                 <div class="leftActBlogText">Радужная покраска</div>
                             </div>
                             <div class="rightActBlog">
                                 <div class="rightActBlogTitle">Анна Евгеньевна</div>
                                 <div class="rightActBlogStare">
-                                    <img class="rightActBlogStareImg" src="./assets/images/mainpage/carousel/star.svg" alt="">
-                                    <img class="rightActBlogStareImg" src="./assets/images/mainpage/carousel/star.svg" alt="">
-                                    <img class="rightActBlogStareImg" src="./assets/images/mainpage/carousel/star.svg" alt="">
-                                    <img class="rightActBlogStareImg" src="./assets/images/mainpage/carousel/star.svg" alt="">
-                                    <img class="rightActBlogStareImg" src="./assets/images/mainpage/carousel/star.svg" alt="">
+                                    <img class="rightActBlogStareImg" src="./assets/images/mainpage/carousel/star.svg" alt="Школа колористик">
+                                    <img class="rightActBlogStareImg" src="./assets/images/mainpage/carousel/star.svg" alt="Школа колористик">
+                                    <img class="rightActBlogStareImg" src="./assets/images/mainpage/carousel/star.svg" alt="Школа колористик">
+                                    <img class="rightActBlogStareImg" src="./assets/images/mainpage/carousel/star.svg" alt="Школа колористик">
+                                    <img class="rightActBlogStareImg" src="./assets/images/mainpage/carousel/star.svg" alt="Школа колористик">
                                 </div>
                                 <div class="rightActBlogText">
                                     <h1>
@@ -850,18 +851,18 @@
                     <div class="carousel--item">
                         <div class="wrapperCarousel--item">
                             <div class="leftActBlog">
-                                <img class="leftActBlogImg" src="./assets/images/mainpage/carousel/carousel1.svg" alt="">
+                                <img class="leftActBlogImg" src="./assets/images/mainpage/carousel/carousel1.svg" alt="Школа колористик">
                                 <div class="leftActBlogTitleType">Курс “Стилис”</div>
                                 <div class="leftActBlogText">Радужная покраска</div>
                             </div>
                             <div class="rightActBlog">
                                 <div class="rightActBlogTitle">Анна Евгеньевна</div>
                                 <div class="rightActBlogStare">
-                                    <img class="rightActBlogStareImg" src="./assets/images/mainpage/carousel/star.svg" alt="">
-                                    <img class="rightActBlogStareImg" src="./assets/images/mainpage/carousel/star.svg" alt="">
-                                    <img class="rightActBlogStareImg" src="./assets/images/mainpage/carousel/star.svg" alt="">
-                                    <img class="rightActBlogStareImg" src="./assets/images/mainpage/carousel/star.svg" alt="">
-                                    <img class="rightActBlogStareImg" src="./assets/images/mainpage/carousel/star.svg" alt="">
+                                    <img class="rightActBlogStareImg" src="./assets/images/mainpage/carousel/star.svg" alt="Школа колористик">
+                                    <img class="rightActBlogStareImg" src="./assets/images/mainpage/carousel/star.svg" alt="Школа колористик">
+                                    <img class="rightActBlogStareImg" src="./assets/images/mainpage/carousel/star.svg" alt="Школа колористик">
+                                    <img class="rightActBlogStareImg" src="./assets/images/mainpage/carousel/star.svg" alt="Школа колористик">
+                                    <img class="rightActBlogStareImg" src="./assets/images/mainpage/carousel/star.svg" alt="Школа колористик">
                                 </div>
                                 <div class="rightActBlogText">
                                     <h1>
@@ -887,18 +888,18 @@
                     <div class="carousel--item" style="opacity: 0;">
                         <div class="wrapperCarousel--item">
                             <div class="leftActBlog">
-                                <img class="leftActBlogImg" src="./assets/images/mainpage/carousel/carousel1.svg" alt="">
+                                <img class="leftActBlogImg" src="./assets/images/mainpage/carousel/carousel1.svg" alt="Школа колористик">
                                 <div class="leftActBlogTitleType">Курс “Стилис”</div>
                                 <div class="leftActBlogText">Радужная покраска</div>
                             </div>
                             <div class="rightActBlog">
                                 <div class="rightActBlogTitle">Анна Евгеньевна</div>
                                 <div class="rightActBlogStare">
-                                    <img class="rightActBlogStareImg" src="./assets/images/mainpage/carousel/star.svg" alt="">
-                                    <img class="rightActBlogStareImg" src="./assets/images/mainpage/carousel/star.svg" alt="">
-                                    <img class="rightActBlogStareImg" src="./assets/images/mainpage/carousel/star.svg" alt="">
-                                    <img class="rightActBlogStareImg" src="./assets/images/mainpage/carousel/star.svg" alt="">
-                                    <img class="rightActBlogStareImg" src="./assets/images/mainpage/carousel/star.svg" alt="">
+                                    <img class="rightActBlogStareImg" src="./assets/images/mainpage/carousel/star.svg" alt="Школа колористик">
+                                    <img class="rightActBlogStareImg" src="./assets/images/mainpage/carousel/star.svg" alt="Школа колористик">
+                                    <img class="rightActBlogStareImg" src="./assets/images/mainpage/carousel/star.svg" alt="Школа колористик">
+                                    <img class="rightActBlogStareImg" src="./assets/images/mainpage/carousel/star.svg" alt="Школа колористик">
+                                    <img class="rightActBlogStareImg" src="./assets/images/mainpage/carousel/star.svg" alt="Школа колористик">
                                 </div>
                                 <div class="rightActBlogText">
                                     <h1>
@@ -933,7 +934,7 @@
                 <div class="fiveBlogInfoTag" id="fiveBlogTagsText1">
                     <div class="fiveBlogInfoTagContent">
                         <div class="fiveBlogInfoTagTitle">Можно заниматься с телефона или только с компьютера?</div>
-                        <div class="fiveBlogInfoTagClose" id="fiveBlogTags1"><img class="fiveBlogInfoTagImg" src="./assets/images/mainpage/tagsplus.svg" alt=""></div>
+                        <div class="fiveBlogInfoTagClose" id="fiveBlogTags1"><img class="fiveBlogInfoTagImg" src="./assets/images/mainpage/tagsplus.svg" alt="Школа колористик"></div>
                     </div>
                     <div class="fiveBlogInfoTagText">
                         Всем, кто хочет освоить новую профессию и зарабатывать, занимаясь любимым делом. <br>
@@ -947,7 +948,7 @@
                 <div class="fiveBlogInfoTag" id="fiveBlogTagsText2">
                     <div class="fiveBlogInfoTagContent">
                         <div class="fiveBlogInfoTagTitle">Как проходит обучение?</div>
-                        <div class="fiveBlogInfoTagClose" id="fiveBlogTags2"><img class="fiveBlogInfoTagImg" src="./assets/images/mainpage/tagsplus.svg" alt=""></div>
+                        <div class="fiveBlogInfoTagClose" id="fiveBlogTags2"><img class="fiveBlogInfoTagImg" src="./assets/images/mainpage/tagsplus.svg" alt="Школа колористик"></div>
                     </div>
                     <div class="fiveBlogInfoTagText">
                         Всем, кто хочет освоить новую профессию и зарабатывать, занимаясь любимым делом. <br>
@@ -961,7 +962,7 @@
                 <div class="fiveBlogInfoTag" id="fiveBlogTagsText3">
                     <div class="fiveBlogInfoTagContent">
                         <div class="fiveBlogInfoTagTitle">Кому подойдёт обучение?</div>
-                        <div class="fiveBlogInfoTagClose" id="fiveBlogTags3"><img class="fiveBlogInfoTagImg" src="./assets/images/mainpage/tagsplus.svg" alt=""></div>
+                        <div class="fiveBlogInfoTagClose" id="fiveBlogTags3"><img class="fiveBlogInfoTagImg" src="./assets/images/mainpage/tagsplus.svg" alt="Школа колористик"></div>
                     </div>
                     <div class="fiveBlogInfoTagText">
                         Всем, кто хочет освоить новую профессию и зарабатывать, занимаясь любимым делом. <br>
@@ -975,7 +976,7 @@
                 <div class="fiveBlogInfoTag" id="fiveBlogTagsText4">
                     <div class="fiveBlogInfoTagContent">
                         <div class="fiveBlogInfoTagTitle">Чем интересен наш курс!</div>
-                        <div class="fiveBlogInfoTagClose" id="fiveBlogTags4"><img class="fiveBlogInfoTagImg" src="./assets/images/mainpage/tagsplus.svg" alt=""></div>
+                        <div class="fiveBlogInfoTagClose" id="fiveBlogTags4"><img class="fiveBlogInfoTagImg" src="./assets/images/mainpage/tagsplus.svg" alt="Школа колористик"></div>
                     </div>
                     <div class="fiveBlogInfoTagText">
                         Всем, кто хочет освоить новую профессию и зарабатывать, занимаясь любимым делом. <br>

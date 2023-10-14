@@ -10,10 +10,10 @@
                     </div>
                     <div class="colFooterSocial">
                         <a class="headerLink headerLinkMrImg" href="https://vk.com/schoolcoloristic" target="_blank">
-                            <img class="headerLinkImg" src="./assets/images/social/vk.svg" alt="">
+                            <img class="headerLinkImg" src="./assets/images/social/vk.svg" alt="Школа колористики в ВК">
                         </a>
                         <a class="headerLink headerLinkMrImg" href="https://t.me/schoolcoloristic" target="_blank">
-                            <img class="headerLinkImg" src="./assets/images/social/tg.svg" alt="">
+                            <img class="headerLinkImg" src="./assets/images/social/tg.svg" alt="Школа колористики в TG">
                         </a>
                     </div>
                 </div>

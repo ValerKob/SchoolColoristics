@@ -6,7 +6,7 @@
                 <div class="burgerMenuWhite"></div>
             </div>
             <div class="headerLogo">
-                <img class="headerLogoImg" src="./assets/images/logo.svg" alt="">
+                <img class="headerLogoImg" src="./assets/images/logo.svg" alt="Школа колористики логотип">
             </div>
             <ul class="headerUl">
                 <li class="headerLi">
@@ -28,12 +28,12 @@
             <ul class="headerUl active">
                 <li class="headerLiImg">
                     <a class="headerLink headerLinkMrImg" href="https://vk.com/schoolcoloristic" target="_blank">
-                        <img class="headerLinkImg" src="./assets/images/social/vk.svg" alt="">
+                        <img class="headerLinkImg" src="./assets/images/social/vk.svg" alt="Школа колористики в ВК">
                     </a>
                 </li>
                 <li class="headerLiImg">
                     <a class="headerLink headerLinkMrImg" href="https://t.me/schoolcoloristic" target="_blank">
-                        <img class="headerLinkImg" src="./assets/images/social/tg.svg" alt="">
+                        <img class="headerLinkImg" src="./assets/images/social/tg.svg" alt="Школа колористики в TG">
                     </a>
                 </li>
             </ul>
@@ -41,9 +41,9 @@
 
         <div class="wrapperBurger" id="wrapperBurger">
             <div class="headerLogo">
-                <img class="headerLogoImg burger" src="./assets/images/logo.svg" alt="">
+                <img class="headerLogoImg burger" src="./assets/images/logo.svg" alt="Школа колористики логотип">
             </div>
-            <div class="closeBurger" id="close"><img src="./assets/images/close.svg" alt=""></div>
+            <div class="closeBurger" id="close"><img src="./assets/images/close.svg" alt="Школа колористики"></div>
             <ul class="headerUl active burger">
                 <li class="headerLi burger">
                     <a class="headerLink" href="#forWhom">Для&nbsp;кого</a>
@@ -65,12 +65,12 @@
             <ul class="headerUl active burgerLink">
                 <li class="headerLiImg">
                     <a class="headerLink headerLinkMrImg" href="https://vk.com/schoolcoloristic" target="_blank">
-                        <img class="headerLinkImg" src="./assets/images/social/vk.svg" alt="">
+                        <img class="headerLinkImg" src="./assets/images/social/vk.svg" alt="Школа колористики в ВК">
                     </a>
                 </li>
                 <li class="headerLiImg">
                     <a class="headerLink headerLinkMrImg" href="https://t.me/schoolcoloristic" target="_blank">
-                        <img class="headerLinkImg" src="./assets/images/social/tg.svg" alt="">
+                        <img class="headerLinkImg" src="./assets/images/social/tg.svg" alt="Школа колористики в TG">
                     </a>
                 </li>
             </ul>
