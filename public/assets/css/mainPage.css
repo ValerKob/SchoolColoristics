@@ -1314,6 +1314,10 @@
     .colFoutBlogPlus img {
         width: 30px;
     }
+
+    .colFoutBlog::after {
+        top: 90px;
+    }
 }
 
 @media (max-width: 500px) {
