@@ -1285,6 +1285,19 @@
         max-width: 250px;
         font-size: 12px;
     } 
+
+    .titleOneBlog {
+        font-size: 30px;
+        line-height: 34px;
+    } 
+
+    .titleOneBlogImg2 {
+        width: 200px;
+    }
+
+    .textOneBlogBtnImg {
+        width: 160px;
+    }
 }
 
 @media (max-width: 500px) {
