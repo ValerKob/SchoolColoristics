@@ -390,135 +390,9 @@
     <div class="container">
         <div class="foutBlogTitle"><img class="foutBlogTitleImg" src="./assets/images/mainpage/title_course.svg" alt="Школа колористик"></div>
         <div class="rowFoutBlog">
-            <div class="colFoutBlog" id="colFoutBlogOne">
-                <div class="colFoutBlogHeader">
-                    <div class="colFoutBlogTitle">
-                        Колорист с нуля
-                    </div>
-                    <div class="colFoutBlogPlus" id="colFoutBlogPlusOne">
-                        <img src="./assets/images/mainpage/plus.svg" alt="Школа колористик">
-                    </div>
-                </div>
-                <div class="wrapperColFoutBlogContent">
-                    <div class="colFoutBlogContent">
-                        <div class="foutBlogContentCol">
-                            <div class="foutBlogContentColTitle">Колористика:</div>
-                            <div class="foutBlogContentColType">
-                                <img class="foutBlogContentColTypeImg" src="./assets/images/mainpage/good.svg" alt="Школа колористик">
-                                <div class="foutBlogContentColTypeText">Типы красителей</div>
-                            </div>
-                            <div class="foutBlogContentColType">
-                                <img class="foutBlogContentColTypeImg" src="./assets/images/mainpage/good.svg" alt="Школа колористик">
-                                <div class="foutBlogContentColTypeText">Структура волос</div>
-                            </div>
-                            <div class="foutBlogContentColType">
-                                <img class="foutBlogContentColTypeImg" src="./assets/images/mainpage/good.svg" alt="Школа колористик">
-                                <div class="foutBlogContentColTypeText">Фон осветления /
-                                    Нейтрализация </div>
-                            </div>
-                        </div>
-
-                        <div class="foutBlogContentCol">
-                            <div class="foutBlogContentColTitle">Уровень включает в себя:</div>
-                            <div class="foutBlogContentColType">
-                                <img class="foutBlogContentColTypeImg" src="./assets/images/mainpage/good.svg" alt="Школа колористик">
-                                <div class="foutBlogContentColTypeText">Базовые знания по
-                                    колористике волос </div>
-                            </div>
-                            <div class="foutBlogContentColType">
-                                <img class="foutBlogContentColTypeImg" src="./assets/images/mainpage/good.svg" alt="Школа колористик">
-                                <div class="foutBlogContentColTypeText">Длительность 3 дня</div>
-                            </div>
-                        </div>
-
-
-                        <div class="foutBlogContentCol">
-                            <div class="foutBlogContentColTitle">Результат:</div>
-                            <div class="foutBlogContentColType">
-                                <img class="foutBlogContentColTypeImg" src="./assets/images/mainpage/good.svg" alt="Школа колористик">
-                                <div class="foutBlogContentColTypeText">Поймёте как работает краситель и узнаете правила работы с волосами. </div>
-                            </div>
-                        </div>
-                    </div>
-
-                    <div class="priceFoutBlogContent">
-                        <div class="wrapperPriceFoutBlogContent">
-                            <div class="priceFoutBlogContentActive one"><img class="priceFoutBlogContentActiveImg" src="./assets/images/mainpage/price/one.svg" alt="Школа колористик"></div>
-                            <div class="priceFoutBlogContentActiveText">Тариф с обратной связью</div>
-                        </div>
-                        <div class="wrapperPriceFoutBlogContent">
-                            <div class="priceFoutBlogContentActive"><img class="priceFoutBlogContentActiveImg" src="./assets/images/mainpage/price/btn.svg" alt="Школа колористик"></div>
-                            <div class="priceFoutBlogContentActiveText"> <b>Тариф без обратной связи </b> 5 600 руб.</div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-
-            <div class="colFoutBlog" id="colFoutBlogTwo">
-                <div class="colFoutBlogHeader">
-                    <div class="colFoutBlogTitle">
-                        НЕ ТУПОЙ Колорист
-                    </div>
-                    <div class="colFoutBlogPlus" id="colFoutBlogPlusTwo">
-                        <img src="./assets/images/mainpage/plus.svg" alt="Школа колористик">
-                    </div>
-                </div>
-                <div class="wrapperColFoutBlogContent">
-                    <div class="colFoutBlogContent">
-                        <div class="foutBlogContentCol">
-                            <div class="foutBlogContentColTitle">Колористика:</div>
-                            <div class="foutBlogContentColType">
-                                <img class="foutBlogContentColTypeImg" src="./assets/images/mainpage/good.svg" alt="Школа колористик">
-                                <div class="foutBlogContentColTypeText">Типы красителей</div>
-                            </div>
-                            <div class="foutBlogContentColType">
-                                <img class="foutBlogContentColTypeImg" src="./assets/images/mainpage/good.svg" alt="Школа колористик">
-                                <div class="foutBlogContentColTypeText">Структура волос</div>
-                            </div>
-                            <div class="foutBlogContentColType">
-                                <img class="foutBlogContentColTypeImg" src="./assets/images/mainpage/good.svg" alt="Школа колористик">
-                                <div class="foutBlogContentColTypeText">Фон осветления /
-                                    Нейтрализация </div>
-                            </div>
-                        </div>
-
-                        <div class="foutBlogContentCol">
-                            <div class="foutBlogContentColTitle">Уровень включает в себя:</div>
-                            <div class="foutBlogContentColType">
-                                <img class="foutBlogContentColTypeImg" src="./assets/images/mainpage/good.svg" alt="Школа колористик">
-                                <div class="foutBlogContentColTypeText">Базовые знания по
-                                    колористике волос </div>
-                            </div>
-                            <div class="foutBlogContentColType">
-                                <img class="foutBlogContentColTypeImg" src="./assets/images/mainpage/good.svg" alt="Школа колористик">
-                                <div class="foutBlogContentColTypeText">Длительность 3 дня</div>
-                            </div>
-                        </div>
-
-
-                        <div class="foutBlogContentCol">
-                            <div class="foutBlogContentColTitle">Результат:</div>
-                            <div class="foutBlogContentColType">
-                                <img class="foutBlogContentColTypeImg" src="./assets/images/mainpage/good.svg" alt="Школа колористик">
-                                <div class="foutBlogContentColTypeText">Поймёте как работает краситель и узнаете правила работы с волосами. </div>
-                            </div>
-                        </div>
-                    </div>
-
-                    <div class="priceFoutBlogContent">
-                        <div class="wrapperPriceFoutBlogContent">
-                            <div class="priceFoutBlogContentActive one"><img class="priceFoutBlogContentActiveImg" src="./assets/images/mainpage/price/one.svg" alt="Школа колористик"></div>
-                            <div class="priceFoutBlogContentActiveText">Тариф с обратной связью</div>
-                        </div>
-                        <div class="wrapperPriceFoutBlogContent">
-                            <div class="priceFoutBlogContentActive"><img class="priceFoutBlogContentActiveImg" src="./assets/images/mainpage/price/btn.svg" alt="Школа колористик"></div>
-                            <div class="priceFoutBlogContentActiveText"> <b>Тариф без обратной связи </b> 5 600 руб.</div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-
-            <div class="colFoutBlog" id="colFoutBlogThree">
+            
+        
+        <div class="colFoutBlog" id="colFoutBlogThree">
                 <div class="colFoutBlogHeader">
                     <div class="colFoutBlogTitle">
                         Колорист с 0 (длительность курса 1 месяц)
@@ -594,16 +468,147 @@
 
                     <div class="priceFoutBlogContent">
                         <div class="wrapperPriceFoutBlogContent">
-                            <div class="priceFoutBlogContentActive one"><img class="priceFoutBlogContentActiveImg" src="./assets/images/mainpage/price/one.svg" alt="Школа колористик"></div>
-                            <div class="priceFoutBlogContentActiveText">Тариф с обратной связью</div>
+                            <div class="priceFoutBlogContentActive one"><img class="priceFoutBlogContentActiveImg" src="./assets/images/mainpage/price/onePrice.svg" alt="Школа колористик"></div>
+                            <!-- <div class="priceFoutBlogContentActiveText">Тариф с обратной связью</div> -->
                         </div>
                         <div class="wrapperPriceFoutBlogContent">
                             <div class="priceFoutBlogContentActive"><img class="priceFoutBlogContentActiveImg" src="./assets/images/mainpage/price/btn.svg" alt="Школа колористик"></div>
-                            <div class="priceFoutBlogContentActiveText"> <b>Тариф без обратной связи </b> 5 600 руб.</div>
+                            <!-- <div class="priceFoutBlogContentActiveText"> <b>Тариф без обратной связи </b> 5 600 руб.</div> -->
                         </div>
                     </div>
                 </div>
             </div>
+
+
+            <div class="colFoutBlog" id="colFoutBlogTwo">
+                <div class="colFoutBlogHeader">
+                    <div class="colFoutBlogTitle">
+                        НЕ ТУПОЙ Колорист
+                    </div>
+                    <div class="colFoutBlogPlus" id="colFoutBlogPlusTwo">
+                        <img src="./assets/images/mainpage/plus.svg" alt="Школа колористик">
+                    </div>
+                </div>
+                <div class="wrapperColFoutBlogContent">
+                    <div class="colFoutBlogContent">
+                        <div class="foutBlogContentCol">
+                            <div class="foutBlogContentColTitle">Колористика:</div>
+                            <div class="foutBlogContentColType">
+                                <img class="foutBlogContentColTypeImg" src="./assets/images/mainpage/good.svg" alt="Школа колористик">
+                                <div class="foutBlogContentColTypeText">Типы красителей</div>
+                            </div>
+                            <div class="foutBlogContentColType">
+                                <img class="foutBlogContentColTypeImg" src="./assets/images/mainpage/good.svg" alt="Школа колористик">
+                                <div class="foutBlogContentColTypeText">Структура волос</div>
+                            </div>
+                            <div class="foutBlogContentColType">
+                                <img class="foutBlogContentColTypeImg" src="./assets/images/mainpage/good.svg" alt="Школа колористик">
+                                <div class="foutBlogContentColTypeText">Фон осветления /
+                                    Нейтрализация </div>
+                            </div>
+                        </div>
+
+                        <div class="foutBlogContentCol">
+                            <div class="foutBlogContentColTitle">Уровень включает в себя:</div>
+                            <div class="foutBlogContentColType">
+                                <img class="foutBlogContentColTypeImg" src="./assets/images/mainpage/good.svg" alt="Школа колористик">
+                                <div class="foutBlogContentColTypeText">Базовые знания по
+                                    колористике волос </div>
+                            </div>
+                            <div class="foutBlogContentColType">
+                                <img class="foutBlogContentColTypeImg" src="./assets/images/mainpage/good.svg" alt="Школа колористик">
+                                <div class="foutBlogContentColTypeText">Длительность 3 дня</div>
+                            </div>
+                        </div>
+
+
+                        <div class="foutBlogContentCol">
+                            <div class="foutBlogContentColTitle">Результат:</div>
+                            <div class="foutBlogContentColType">
+                                <img class="foutBlogContentColTypeImg" src="./assets/images/mainpage/good.svg" alt="Школа колористик">
+                                <div class="foutBlogContentColTypeText">Поймёте как работает краситель и узнаете правила работы с волосами. </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="priceFoutBlogContent">
+                        <div class="wrapperPriceFoutBlogContent">
+                            <!-- <div class="priceFoutBlogContentActive one"><img class="priceFoutBlogContentActiveImg" src="./assets/images/mainpage/price/one.svg" alt="Школа колористик"></div> -->
+                            <!-- <div class="priceFoutBlogContentActiveText">Тариф с обратной связью</div> -->
+                        </div>
+                        <div class="wrapperPriceFoutBlogContent">
+                            <div class="priceFoutBlogContentActive"><img class="priceFoutBlogContentActiveImg" src="./assets/images/mainpage/price/btnDisapled.svg" alt="Школа колористик"></div>
+                            <!-- <div class="priceFoutBlogContentActiveText"> <b>Тариф без обратной связи </b> 5 600 руб.</div> -->
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="colFoutBlog" id="colFoutBlogOne">
+                <div class="colFoutBlogHeader">
+                    <div class="colFoutBlogTitle">
+                        Из грязи в князи
+                    </div>
+                    <div class="colFoutBlogPlus" id="colFoutBlogPlusOne">
+                        <img src="./assets/images/mainpage/plus.svg" alt="Школа колористик">
+                    </div>
+                </div>
+                <div class="wrapperColFoutBlogContent">
+                    <div class="colFoutBlogContent">
+                        <div class="foutBlogContentCol">
+                            <div class="foutBlogContentColTitle">Колористика:</div>
+                            <div class="foutBlogContentColType">
+                                <img class="foutBlogContentColTypeImg" src="./assets/images/mainpage/good.svg" alt="Школа колористик">
+                                <div class="foutBlogContentColTypeText">Типы красителей</div>
+                            </div>
+                            <div class="foutBlogContentColType">
+                                <img class="foutBlogContentColTypeImg" src="./assets/images/mainpage/good.svg" alt="Школа колористик">
+                                <div class="foutBlogContentColTypeText">Структура волос</div>
+                            </div>
+                            <div class="foutBlogContentColType">
+                                <img class="foutBlogContentColTypeImg" src="./assets/images/mainpage/good.svg" alt="Школа колористик">
+                                <div class="foutBlogContentColTypeText">Фон осветления /
+                                    Нейтрализация </div>
+                            </div>
+                        </div>
+
+                        <div class="foutBlogContentCol">
+                            <div class="foutBlogContentColTitle">Уровень включает в себя:</div>
+                            <div class="foutBlogContentColType">
+                                <img class="foutBlogContentColTypeImg" src="./assets/images/mainpage/good.svg" alt="Школа колористик">
+                                <div class="foutBlogContentColTypeText">Базовые знания по
+                                    колористике волос </div>
+                            </div>
+                            <div class="foutBlogContentColType">
+                                <img class="foutBlogContentColTypeImg" src="./assets/images/mainpage/good.svg" alt="Школа колористик">
+                                <div class="foutBlogContentColTypeText">Длительность 3 дня</div>
+                            </div>
+                        </div>
+
+
+                        <div class="foutBlogContentCol">
+                            <div class="foutBlogContentColTitle">Результат:</div>
+                            <div class="foutBlogContentColType">
+                                <img class="foutBlogContentColTypeImg" src="./assets/images/mainpage/good.svg" alt="Школа колористик">
+                                <div class="foutBlogContentColTypeText">Поймёте как работает краситель и узнаете правила работы с волосами. </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="priceFoutBlogContent">
+                        <div class="wrapperPriceFoutBlogContent">
+                            <!-- <div class="priceFoutBlogContentActive one"><img class="priceFoutBlogContentActiveImg" src="./assets/images/mainpage/price/onePrice.svg" alt="Школа колористик"></div> -->
+                            <!-- <div class="priceFoutBlogContentActiveText">Тариф с обратной связью</div> -->
+                        </div>
+                        <div class="wrapperPriceFoutBlogContent">
+                            <div class="priceFoutBlogContentActive"><img class="priceFoutBlogContentActiveImg" src="./assets/images/mainpage/price/btnDisapled.svg" alt="Школа колористик"></div>
+                            <!-- <div class="priceFoutBlogContentActiveText"> <b>Тариф без обратной связи </b> 40 000 руб.</div> -->
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+
         </div>
     </div>
 </section>
@@ -928,7 +933,7 @@
                 </div>
             </div>
         </div>
-        <div class="fiveBlogInfo">
+        <div class="fiveBlogInfo" style="display: none;">
             <div class="fiveBlogInfoTitle">ИНФОРМАЦИЯ</div>
             <div class="fiveBlogInfoTags">
                 <div class="fiveBlogInfoTag" id="fiveBlogTagsText1">
