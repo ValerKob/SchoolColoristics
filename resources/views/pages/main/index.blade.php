@@ -390,10 +390,10 @@
     <div class="container">
         <div class="foutBlogTitle"><img class="foutBlogTitleImg" src="./assets/images/mainpage/title_course.svg" alt="Школа колористик"></div>
         <div class="rowFoutBlog">
-            
-        
-        <div class="colFoutBlog" id="colFoutBlogThree">
-                <div class="colFoutBlogHeader">
+
+
+            <div class="colFoutBlog" id="colFoutBlogThree">
+                <div class="colFoutBlogHeader" id="colFoutBlogThreeWrap">
                     <div class="colFoutBlogTitle">
                         Колорист с 0 (длительность курса 1 месяц)
                     </div>
@@ -481,7 +481,7 @@
 
 
             <div class="colFoutBlog" id="colFoutBlogTwo">
-                <div class="colFoutBlogHeader">
+                <div class="colFoutBlogHeader" id="colFoutBlogTwoWrap">
                     <div class="colFoutBlogTitle">
                         НЕ ТУПОЙ Колорист
                     </div>
@@ -545,7 +545,7 @@
             </div>
 
             <div class="colFoutBlog" id="colFoutBlogOne">
-                <div class="colFoutBlogHeader">
+                <div class="colFoutBlogHeader" id="colFoutBlogOneWrap">
                     <div class="colFoutBlogTitle">
                         Из грязи в князи
                     </div>
