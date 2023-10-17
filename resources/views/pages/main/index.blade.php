@@ -472,7 +472,7 @@
                             <!-- <div class="priceFoutBlogContentActiveText">Тариф с обратной связью</div> -->
                         </div>
                         <div class="wrapperPriceFoutBlogContent">
-                            <div class="priceFoutBlogContentActive"><img class="priceFoutBlogContentActiveImg" src="./assets/images/mainpage/price/btn.svg" alt="Школа колористик"></div>
+                            <a href="https://vk.com/schoolcoloristic" target="_blank" class="priceFoutBlogContentActive"><img class="priceFoutBlogContentActiveImg" src="./assets/images/mainpage/price/btn.svg" alt="Школа колористик"></a>
                             <!-- <div class="priceFoutBlogContentActiveText"> <b>Тариф без обратной связи </b> 5 600 руб.</div> -->
                         </div>
                     </div>
